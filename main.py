@@ -1,4 +1,4 @@
-#import tobii_research as tr # biblioteka do integracji z eyetrackerem
+# import tobii_research as tr # biblioteka do integracji z eyetrackerem
 import time
 from datetime import datetime
 from tkinter import *
@@ -10,14 +10,14 @@ global_leY = 0.0
 global_reX = 0.0
 global_reY = 0.0
 
-dots = 0 # liczba postawionych przez użytkownika kropek
-condition = 1 # bardzo ważna zmienna, w pętli pozwala się przemieszczać między kolejnymi etapami gry
+dots = 0  # liczba postawionych przez użytkownika kropek
+condition = 1  # bardzo ważna zmienna, w pętli pozwala się przemieszczać między kolejnymi etapami gry
 czas_gry = 0
-kropki = [] # lista na kropki które stawia użytkownik na obrazkach z gry
+kropki = []  # lista na kropki które stawia użytkownik na obrazkach z gry
 
 ### wykrycie podłączonego eyetrackera
-#TobiiEyeTracker = tr.find_all_eyetrackers()
-#EyeTracker = TobiiEyeTracker[0]
+# TobiiEyeTracker = tr.find_all_eyetrackers()
+# EyeTracker = TobiiEyeTracker[0]
 
 """
 def gaze_data_callback(gaze_data):  # funkcja ktora odczytuje wspolrzedne spojrzenia na ekran i przypisuje je do zmiennych globalnych
@@ -34,10 +34,26 @@ def gaze_data_callback(gaze_data):  # funkcja ktora odczytuje wspolrzedne spojrz
         global_reX, global_reY = gaze_right_eye
 """
 
-# metoda, którą podepnę pod zdarzenie klikniecia LPM nad kontrolką obrazek
-# rysuje kropkę nad obrazkiem w miejscu kliknięcia
+clicked_areas = set()
+
+
 def draw_dot(event):
-    #"#93F600"
+    image_name = img_names[nr_image - 1].split('/')[-1].split('_')[1]
+    areas_filename = f'areas/areas_{image_name}.txt'
+    with open(areas_filename, 'r') as f:
+        areas = [tuple(map(int, line.strip().split(','))) for line in f.readlines()]
+
+    for (x1, y1, x2, y2) in areas:
+        # DEBUG do wyswietlania ramek gdzie punkty
+        # obrazek.create_rectangle(x1, y1, x2, y2, outline='red', width=2)
+        if (x1, y1, x2, y2) not in clicked_areas:
+            if x1 <= event.x <= x2 and y1 <= event.y <= y2:
+                global points
+                points += 1
+                points_var.set(f"Punkty: {points}")
+                clicked_areas.add((x1, y1, x2, y2))  # Mark this area as clicked
+                break
+
     color = "black"
     global dots
     dots += 1
@@ -47,18 +63,21 @@ def draw_dot(event):
     x2, y2 = (event.x + 10), (event.y + 10)
     id = obrazek.create_oval(x1, y1, x2, y2, fill=color, outline=color, width=14)
     kropki.append(id)
-    x = x1+x2/2
-    y = y1+y2/2
-    # zapis informacji gdzie uzytkownik stawial kropki (nie pamietam po co mi to bylo xd)
-    f = open('dots_xy.txt', 'a')
-    f.write(str(dots) + ":\t x: " + str(x) + " y: " + str(y) + "\n")
-    f.close()
+    x = x1 + x2 / 2
+    y = y1 + y2 / 2
 
-# metoda, którą podepnę pod zdarzenie klikniecia PPM nad kontrolką obrazek
+    # zapis informacji gdzie uzytkownik stawial kropki
+    # DEBUG do wyswietlania ramek gdzie punkty
+    # print(x1, y1)
+    with open('dots_xy.txt', 'a') as f:
+        f.write(str(dots) + ":\t x: " + str(x) + " y: " + str(y) + "\n")
+
+
 # usuwa ostatnio narysowaną kropkę
-def delete_dot(event): # metoda, która podpinam pod zdarzenie klikniecia myszki nad kontrolką obrazek
+def delete_dot(event):  # metoda, która podpinam pod zdarzenie klikniecia myszki nad kontrolką obrazek
     obrazek.delete(kropki[-1])
     del kropki[-1]
+
 
 # Funkcja wywolywana po nacisnieciu przycisku START na ekranie startowym
 def zacznij():
@@ -75,16 +94,26 @@ def zacznij():
     global czas_gry
     czas_gry = time.time()
 
-# zmienne dla obrazków: nr_image => ktory obrazek sie wyswietla;   img_names => sciezki do obrazkow
+
 nr_image = 0
-img_names = ["O/testowy_9_1.jpg", "O/testowy_6_1.jpg", "O/testowy_2_1.jpg", "O/testowy_8_1.jpg", "O/testowy_3_1.jpg", "O/testowy_7_1.jpg", "O/testowy_1_1.jpg", "O/testowy_5_1.jpg"]
-czas_obrazka = 10 # co ile ma zmieniac sie obrazek w grze
+img_names = ["images/testowy_9_1.jpg", "images/testowy_6_1.jpg", "images/testowy_2_1.jpg", "images/testowy_8_1.jpg",
+             "images/testowy_3_1.jpg",
+             "images/testowy_7_1.jpg", "images/testowy_1_1.jpg", "images/testowy_5_1.jpg"]
+czas_obrazka = 30  # co ile ma zmieniac sie obrazek w grze
 
 # Stworzenie głownego okna aplikacji
 root = Tk()
 root.title("Find_the_difference_game")
 root.geometry("1920x1080")
-root.attributes('-fullscreen', True)
+
+points = 0
+points_var = StringVar()
+points_var.set(f"Punkty: {points}")
+points_label = Label(root, textvariable=points_var, font=("Arial", 20))
+points_label.place(x=1500, y=50)
+root.title("Find_the_difference_game")
+root.geometry("1920x1080")
+# root.attributes('-fullscreen', True)
 
 # Zmienna na info startowe z instrukcja dla uzytkownika
 info = "Po kliknięciu przycisku \"START\" po kolei zostanie Ci wyświetlonych 8 obrazków.\n" \
@@ -93,12 +122,12 @@ info = "Po kliknięciu przycisku \"START\" po kolei zostanie Ci wyświetlonych 8
        "Na każdy z obrazków masz 75 sekund. Kiedy znajdziesz szukany element postaw na nim kropkę\n" \
        "lewym przyciskiem myszy (LPM). Aby usunąć postawioną kropkę użyj prawego przycisku myszy (PPM).\n\n " \
        "Naciśnij przycisk \"START\" aby rozpocząć" \
-
-# Elementy ekranu startowego
-startup_text = Label(root, text=info, font=("Arial", 20), anchor = CENTER)
-startup_text.place(x=336, y=230) # metoda place we wszystkich kontrolkach sluzy do oznaczenia w jakiej pozycji
+ \
+    # Elementy ekranu startowego
+startup_text = Label(root, text=info, font=("Arial", 20), anchor=CENTER)
+startup_text.place(x=336, y=230)  # metoda place we wszystkich kontrolkach sluzy do oznaczenia w jakiej pozycji
 # (w pikselach) ma pojawic sie stworzona kontrolka w elemencie nadrzędnym (tutaj root, czyli okno głowne)
-startup_button = Button(root, text="START", font=("Arial", 50), command = zacznij, anchor = CENTER) # command = zacznij
+startup_button = Button(root, text="START", font=("Arial", 50), command=zacznij, anchor=CENTER)  # command = zacznij
 # oznacza ze po kliknieciu przycisku wywolywana jest funckja zacznij()
 startup_button.place(x=820, y=500)
 
@@ -109,7 +138,7 @@ img_1 = ImageTk.PhotoImage(img1)
 ### Tutaj checkbox na ekranie glownym. Jesli uzytkownik go zaznaczy to po uruchomieniu gry, w prawym gornym rogu
 ### beda wyswietlane odczyty z eye-trackera w aplikacji
 var2 = IntVar()
-wyswietl_xy= Checkbutton(root, text="Wyswietlaj informacje o spojrzeniu", variable=var2, onvalue=1, offvalue=0)
+wyswietl_xy = Checkbutton(root, text="Wyswietlaj informacje o spojrzeniu", variable=var2, onvalue=1, offvalue=0)
 wyswietl_xy.pack()
 wyswietl_xy.place(x=1690, y=10)
 
@@ -127,54 +156,68 @@ temp_leX = 0
 temp_leY = 0
 eyes_movement = "------"
 
-#Ponizsza linia rozpoczyna zbieranie danych z eyetrackera
-#EyeTracker.subscribe_to(tr.EYETRACKER_GAZE_DATA, gaze_data_callback, as_dictionary=True)
+# Zmienna do wyświetlania pozostałego czasu
+remaining_time_var = StringVar()
+remaining_time_var.set("Pozostały czas: 0 s")
+remaining_time_label = None
 
-while(True):
+# Ponizsza linia rozpoczyna zbieranie danych z eyetrackera
+# EyeTracker.subscribe_to(tr.EYETRACKER_GAZE_DATA, gaze_data_callback, as_dictionary=True)
+
+while (True):
     ### Badanie uplywu czasu
     ETIME = time.time()
     ETIME2 = time.time()
-    seconds = ETIME - STIME # czas od wyswietlenia obrazka
-    seconds2 = ETIME2 - STIME2 # czas aktualizacji odczytow z eytrackera
+    seconds = ETIME - STIME  # czas od wyswietlenia obrazka
+    seconds2 = ETIME2 - STIME2  # czas aktualizacji odczytow z eytrackera
+
+    ### Aktualizacja pozostałego czasu do końca rundy
+    remaining_time = max(0, int(czas_obrazka - seconds))
+    if condition > 2:
+        remaining_time_var.set(f"Pozostały czas: {remaining_time} s")
 
     ### Ponizej wyswietlanie danych z eye-trackera w aplikacji, raczej nie bedzie nam przydatne
     ### na razie zostawie
 
-    if(global_leX == None) or (global_leY == None) or (temp_leX == None) or (temp_leY == None):
-        eyes_movement = "------"
-    elif((abs(global_leX - temp_leX) > 0.005) or (abs(global_leY - temp_leY) > 0.005)):
-        eyes_movement = "SAKADA"
-    else:
-        eyes_movement = "FIKSACJA"
-
-    temp_leX = global_leX
-    temp_leY = global_leY
-    if (condition == 2) and (var2.get() == 1):
-        gaze_data = Label(root, background="grey", textvariable=var, width=38, height=3)
-        gaze_data.place(x=1650, y=0)
-
-    if(seconds2 > 0.2) and (var2.get() == 1):
-        lx = round(global_leX, 4)
-        ly = round(global_leY, 4)
-        rx = round(global_reX, 4)
-        ry = round(global_reY, 4)
-        var.set("L_eye X:" + str(lx) + "   L_eye Y:" + str(ly) + "\nR_eye X:" + str(rx) + "   R_eye Y:" + str(ry) + "\n" + eyes_movement)
-        STIME2 = time.time()
+    # if (global_leX == None) or (global_leY == None) or (temp_leX == None) or (temp_leY == None):
+    #     eyes_movement = "------"
+    # elif ((abs(global_leX - temp_leX) > 0.005) or (abs(global_leY - temp_leY) > 0.005)):
+    #     eyes_movement = "SAKADA"
+    # else:
+    #     eyes_movement = "FIKSACJA"
+    #
+    # temp_leX = global_leX
+    # temp_leY = global_leY
+    # if (condition == 2) and (var2.get() == 1):
+    #     gaze_data = Label(root, background="grey", textvariable=var, width=38, height=3)
+    #     gaze_data.place(x=1650, y=0)
+    #
+    # if (seconds2 > 0.2) and (var2.get() == 1):
+    #     lx = round(global_leX, 4)
+    #     ly = round(global_leY, 4)
+    #     rx = round(global_reX, 4)
+    #     ry = round(global_reY, 4)
+    #     var.set("L_eye X:" + str(lx) + "   L_eye Y:" + str(ly) + "\nR_eye X:" + str(rx) + "   R_eye Y:" + str(
+    #         ry) + "\n" + eyes_movement)
+    #     STIME2 = time.time()
 
     ### Do tego ifa wpadamy po klkinieciu przycisku START na ekranie startowym
     if (condition == 2):
-        # stworzenie kontrolki z obrazkiem
+        # Create widget for displaying remaining time
+        remaining_time_label = Label(root, textvariable=remaining_time_var, font=("Arial", 20))
+        remaining_time_label.place(x=1500, y=100)
+        # Create widget for displaying the image
         # kontrolka Canvas pozwala na rysowanie na niej elementów. Uzytkownik do zaznaczania znalezionych elementow
         # uzywal LPM do narysowania kropki na znalezionym elemencie
-        obrazek = Canvas(root, width = 1137, height = 1000)
+        obrazek = Canvas(root, width=1137, height=1000)
         obrazek.place(x=100, y=20)
-        obrazek.create_image((570, 500), image = img_1)
+        obrazek.create_image((570, 500), image=img_1)
         # Podpiecie pod LMP rysoawania kropek, i pod PPM usuwania ostatnio narysowanej
         obrazek.bind("<ButtonPress-1>", draw_dot)
         obrazek.bind("<ButtonPress-3>", delete_dot)
 
-        nr_image += 1
         condition += 1
+        nr_image += 1
         STIME = time.time()
         STIME2 = time.time()
         seconds = 0
@@ -188,7 +231,7 @@ while(True):
             obrazek.destroy()
             continue
         obrazek.destroy()  # Ponizej zastapienie starego obrazka nowym
-        img1 = Image.open(img_names[nr_image]) # Otworzenie obrazka po ścieżce
+        img1 = Image.open(img_names[nr_image])  # Otworzenie obrazka po ścieżce
         img = ImageTk.PhotoImage(img1)
         # To samo co wczesniej, opis gdzieś wyżej
         obrazek = Canvas(root, width=1137, height=1000)
@@ -199,25 +242,26 @@ while(True):
 
         nr_image += 1
 
-        STIME = time.time()                    #od nowa mierzymy czas do wyswietlenia nastepnego obrazka
+        STIME = time.time()  # od nowa mierzymy czas do wyswietlenia nastepnego obrazka
 
     ### Tutaj aplikacja tkwi 5 sekund przed wylaczeniem się
-    if(condition == -2):
-        time.sleep(5) # zatrzymujemy na 5 sekund aby podziękowanie bylo przez tyle widoczne dla badanego
+    if (condition == -2):
+        time.sleep(5)  # zatrzymujemy na 5 sekund aby podziękowanie bylo przez tyle widoczne dla badanego
         koniec.destroy()
         temp = time.time()
-        KONIEC = temp - czas_gry # obliczenie czasu zakonczenia badania
+        KONIEC = temp - czas_gry  # obliczenie czasu zakonczenia badania
 
         # zapis danych o czasie do pliku
         f = open('czasy.txt', 'a')
-        f.write("CZAS ZAKONCZENIA: " + str(datetime.now()) + "\n" + "CAŁKOWITY CZAS EKSERYMENTU: " + str(KONIEC) + "\n\n==========================================================\n\n")
+        f.write("CZAS ZAKONCZENIA: " + str(datetime.now()) + "\n" + "CAŁKOWITY CZAS EKSERYMENTU: " + str(
+            KONIEC) + "\n\n==========================================================\n\n")
         f.close()
 
-        #EyeTracker.unsubscribe_from(tr.EYETRACKER_GAZE_DATA, gaze_data_callback) #zakonczenie pracy eyetrackera
+        # EyeTracker.unsubscribe_from(tr.EYETRACKER_GAZE_DATA, gaze_data_callback) #zakonczenie pracy eyetrackera
         break
 
     ### Tutaj wpadamy kiedy wszystkie obrazki zostana wyswietlone
-    if(condition == -1):
+    if (condition == -1):
         koniec = Label(root, text="KONIEC\nDzięki za udział! :)", font=("Arial", 80), anchor=CENTER)
         koniec.place(x=570, y=350)
         condition = -2
