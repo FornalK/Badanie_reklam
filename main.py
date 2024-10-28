@@ -1,8 +1,13 @@
 # import tobii_research as tr # biblioteka do integracji z eyetrackerem
 import time
+import cv2
 from datetime import datetime
 from tkinter import *
 from PIL import ImageTk, Image
+
+ad_playing = False
+paused_time = 0
+round_number = 1
 
 ### zmienne do ktorych sa przypisywane wspolrzedne x y oczu odczytane z eyetrackera
 global_leX = 0.0
@@ -36,6 +41,45 @@ def gaze_data_callback(gaze_data):  # funkcja ktora odczytuje wspolrzedne spojrz
 
 clicked_areas = set()
 
+
+def play_video(video_path, time_reset = False, width=400, height=300, x=100, y=100, scenerio = "Unknown Scenerio"):
+    global ad_playing, paused_time, STIME
+
+    ad_playing = True  # Zatrzymujemy licznik czasu
+    cap = cv2.VideoCapture(video_path)
+    video_label = Label(root)
+    video_label.pack()
+    video_label.place(x=x, y=y)
+
+    with open('czasy.txt', 'a') as log_file:
+        log_file.write(f"Reklama Start: {datetime.now()}, Nazwa Reklamy: {video_path}, Scenariusz: {scenerio}\n")
+
+    if time_reset == True:
+        start_pause_time = time.time()  # Zaczynamy mierzyć czas pauzy
+
+    def update_frame():
+        global ad_playing, paused_time, STIME
+        ret, frame = cap.read()
+        if ret:
+            frame = cv2.resize(frame, (width, height))
+            frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            img = Image.fromarray(frame)
+            img_tk = ImageTk.PhotoImage(img)
+            video_label.img_tk = img_tk
+            video_label.configure(image=img_tk)
+            video_label.after(30, update_frame)
+        else:
+            cap.release()
+            video_label.pack_forget()  # Usunięcie etykiety po zakończeniu reklamy
+            video_label.img_tk = None
+            video_label.destroy()
+            end_pause_time = time.time()  # Koniec pauzy
+            ad_playing = False  # Wznawiamy licznik po zakończeniu reklamy
+            if time_reset == True:
+                paused_time += end_pause_time - start_pause_time  # Dodajemy czas pauzy do całkowitej zmiennej `paused_time`
+                STIME += paused_time  # Aktualizacja STIME, aby skompensować czas pauzy
+
+    update_frame()
 
 def draw_dot(event):
     image_name = img_names[nr_image - 1].split('/')[-1].split('_')[1]
@@ -99,7 +143,7 @@ nr_image = 0
 img_names = ["images/testowy_9_1.jpg", "images/testowy_6_1.jpg", "images/testowy_2_1.jpg", "images/testowy_8_1.jpg",
              "images/testowy_3_1.jpg",
              "images/testowy_7_1.jpg", "images/testowy_1_1.jpg", "images/testowy_5_1.jpg"]
-czas_obrazka = 30  # co ile ma zmieniac sie obrazek w grze
+czas_obrazka = 10  # co ile ma zmieniac sie obrazek w grze
 
 # Stworzenie głownego okna aplikacji
 root = Tk()
@@ -164,7 +208,9 @@ remaining_time_label = None
 # Ponizsza linia rozpoczyna zbieranie danych z eyetrackera
 # EyeTracker.subscribe_to(tr.EYETRACKER_GAZE_DATA, gaze_data_callback, as_dictionary=True)
 
+
 while (True):
+
     ### Badanie uplywu czasu
     ETIME = time.time()
     ETIME2 = time.time()
@@ -175,6 +221,7 @@ while (True):
     remaining_time = max(0, int(czas_obrazka - seconds))
     if condition > 2:
         remaining_time_var.set(f"Pozostały czas: {remaining_time} s")
+
 
     ### Ponizej wyswietlanie danych z eye-trackera w aplikacji, raczej nie bedzie nam przydatne
     ### na razie zostawie
@@ -215,7 +262,6 @@ while (True):
         # Podpiecie pod LMP rysoawania kropek, i pod PPM usuwania ostatnio narysowanej
         obrazek.bind("<ButtonPress-1>", draw_dot)
         obrazek.bind("<ButtonPress-3>", delete_dot)
-
         condition += 1
         nr_image += 1
         STIME = time.time()
@@ -224,12 +270,22 @@ while (True):
         seconds2 = 0
         wyswietl_xy.destroy()  # usuwanie checkboxa
 
+        # Aktualizacja licznika czasu tylko wtedy, gdy reklama się nie odtwarza
+    if not ad_playing:
+        ETIME = time.time()
+        seconds = ETIME - STIME
+        remaining_time = max(0, int(czas_obrazka - seconds))
+        if condition > 2:
+            remaining_time_var.set(f"Pozostały czas: {remaining_time} s")
+
     # kiedy upłynął jakiś tam czas na obrazek
     if (seconds > czas_obrazka) and (condition == 3):
         if (nr_image > 7):
             condition = -1
             obrazek.destroy()
             continue
+        with open('czasy.txt', 'a') as log_file:
+            log_file.write(f"KONIEC RUNDY: {datetime.now()}\n")
         obrazek.destroy()  # Ponizej zastapienie starego obrazka nowym
         img1 = Image.open(img_names[nr_image])  # Otworzenie obrazka po ścieżce
         img = ImageTk.PhotoImage(img1)
@@ -241,8 +297,39 @@ while (True):
         obrazek.bind("<ButtonPress-3>", delete_dot)
 
         nr_image += 1
+        #Scenariusze do poszczególnych rund
+        # 0. Runda rozgrzewkowa - bez reklam
+        # 1. Runda z reklamą na "cały" ekran, po wyswietleniu reklamy czas wraca do tego sprzed reklamy
+        # 2. Runda z reklamą na "cały" ekran, wraz z reklamą ucieka czas gry
+        # 3. Runda z reklamą widoczną na bocznym pasku
+        # DO ZROBIENIA
+        # 4. Runda z reklamą po 5 sekundach
+        # 5. Runda z reklamą z zapowiedzią czasową (odliczanie)
+        # 6. Runda z reklamą z zapowiedzią tekstową ("Za chwile pojawi się reklama")
+
+
+        if round_number == 1:
+            print(round_number)
+            video_path = "videos/short.mp4"
+            play_video(video_path, True, 1800, 850, 50, 100, "1. Pelny ekran, wznowienie czasu")
+        if round_number == 2:
+            print(round_number)
+            video_path = "videos/short.mp4"
+            play_video(video_path, False, 1800, 850, 50, 100, "2. Pelny ekran, utrata czasu")
+        if round_number == 3:
+            print(round_number)
+            video_path = "videos/short.mp4"
+            play_video(video_path, False, 600, 400, 1300, 300, "3. Reklama Sidebar")
+        #ŹLE
+        if round_number == 4:
+            print(round_number)
+            video_path = "videos/short.mp4"
+            if(remaining_time - 25 <= 0):
+                play_video(video_path, False, 600, 400, 1300, 300, "4. Reklama po 5 sekundach")
 
         STIME = time.time()  # od nowa mierzymy czas do wyswietlenia nastepnego obrazka
+        paused_time = 0
+        round_number += 1
 
     ### Tutaj aplikacja tkwi 5 sekund przed wylaczeniem się
     if (condition == -2):
