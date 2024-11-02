@@ -4,8 +4,9 @@
 - ~~Wyświetlanie reklam/wideo podczas dzialania aplikacji i gry~~
 - ~~Dodanie licznika czasu na obrazek dla użytkownika~~
 - ~~Być może dodanie licznika Punktów (problematyczne, trzeba wyznaczyc obszary na obrazkach w ktorych klikniecie zalicza punkt)~~
-- Ustawic odpowiednie obszary dla każdego obrazka(areas3.txt -> testowy_3_1.jpg itd.)
+- ~~Ustawic odpowiednie obszary dla każdego obrazka(areas3.txt -> testowy_3_1.jpg itd.)~~
 - ~~Zapis do pliku eventów (wyswietlenie sie reklamy, jaki to rodzaj reklamy, timestampy)~~
+- Nie działa punktacja dla innych obrazków poza pierwszym
 - Realizacje różnych scenariuszy (gdy bedzie dzialac juz wyświetlanie wideo)
 	> Wyświetlanie bez zapowiedzi
 	> Wyświetlanie z zapowiedzią czasową 
