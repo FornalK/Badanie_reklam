@@ -52,7 +52,8 @@ def play_video(video_path, time_reset = False, width=400, height=300, x=100, y=1
     video_label.place(x=x, y=y)
 
     with open('czasy.txt', 'a') as log_file:
-        log_file.write(f"Reklama Start: {datetime.now()}, Nazwa Reklamy: {video_path}, Scenariusz: {scenerio}\n")
+        #log_file.write(f"Reklama Start: {datetime.now()}, Nazwa Reklamy: {video_path}, Scenariusz: {scenerio}\n")
+        log_file.write(f"Reklama Start: {int(time.time())}, Nazwa Reklamy: {video_path}, Scenariusz: {scenerio}\n")
 
     if time_reset == True:
         start_pause_time = time.time()  # Zaczynamy mierzyć czas pauzy
@@ -86,13 +87,14 @@ def draw_dot(event):
     areas_filename = f'areas/areas_{image_name}.txt'
     with open(areas_filename, 'r') as f:
         areas = [tuple(map(int, line.strip().split(','))) for line in f.readlines()]
-
+    flag = False # flaga do zapisu czy klikniecie poprawne czy nie
     for (x1, y1, x2, y2) in areas:
         # DEBUG do wyswietlania ramek gdzie punkty
-        # obrazek.create_rectangle(x1, y1, x2, y2, outline='red', width=2)
+        #obrazek.create_rectangle(x1, y1, x2, y2, outline='red', width=2)
         if (x1, y1, x2, y2) not in clicked_areas:
             if x1 <= event.x <= x2 and y1 <= event.y <= y2:
                 global points
+                flag = True
                 points += 1
                 points_var.set(f"Punkty: {points}")
                 clicked_areas.add((x1, y1, x2, y2))  # Mark this area as clicked
@@ -113,6 +115,12 @@ def draw_dot(event):
     # zapis informacji gdzie uzytkownik stawial kropki
     # DEBUG do wyswietlania ramek gdzie punkty
     # print(x1, y1)
+    c = open('czasy.txt', 'a')
+    if flag == False:
+        c.write("KLIKNIECIE: " + str(int(time.time())) + ", 0" + "\n")
+    else:
+        c.write("KLIKNIECIE: " + str(int(time.time())) +", 1" + "\n")
+
     with open('dots_xy.txt', 'a') as f:
         f.write(str(dots) + ":\t x: " + str(x) + " y: " + str(y) + "\n")
 
@@ -133,7 +141,8 @@ def zacznij():
     startup_button.destroy()
     # zapis z timestempem z rozpoczecia gry
     f = open('czasy.txt', 'a')
-    f.write("CZAS STARTU: " + str(datetime.now()) + "\n")
+    #f.write("CZAS STARTU: " + str(datetime.now()) + "\n") //data normalny format
+    f.write("CZAS STARTU: " + str(int(time.time())) + "\n")  #data format unix
     f.close()
     global czas_gry
     czas_gry = time.time()
@@ -285,7 +294,8 @@ while (True):
             obrazek.destroy()
             continue
         with open('czasy.txt', 'a') as log_file:
-            log_file.write(f"KONIEC RUNDY: {datetime.now()}\n")
+            #log_file.write(f"KONIEC RUNDY: {datetime.now()}\n")
+            log_file.write(f"KONIEC RUNDY: {int(time.time())}\n")
         obrazek.destroy()  # Ponizej zastapienie starego obrazka nowym
         img1 = Image.open(img_names[nr_image])  # Otworzenie obrazka po ścieżce
         img = ImageTk.PhotoImage(img1)
@@ -340,7 +350,9 @@ while (True):
 
         # zapis danych o czasie do pliku
         f = open('czasy.txt', 'a')
-        f.write("CZAS ZAKONCZENIA: " + str(datetime.now()) + "\n" + "CAŁKOWITY CZAS EKSERYMENTU: " + str(
+        #f.write("CZAS ZAKONCZENIA: " + str(datetime.now()) + "\n" + "CAŁKOWITY CZAS EKSERYMENTU: " + str(
+        #    KONIEC) + "\n\n==========================================================\n\n")
+        f.write("CZAS ZAKONCZENIA: " + str(int(time.time())) + "\n" + "CALKOWITY CZAS EKSERYMENTU: " + str(
             KONIEC) + "\n\n==========================================================\n\n")
         f.close()
 
