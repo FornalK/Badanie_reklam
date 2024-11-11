@@ -1,5 +1,7 @@
 # import tobii_research as tr # biblioteka do integracji z eyetrackerem
 import time
+import random
+import os
 import cv2
 from tkinter import *
 from PIL import ImageTk, Image
@@ -218,6 +220,11 @@ remaining_time_label = None
 # EyeTracker.subscribe_to(tr.EYETRACKER_GAZE_DATA, gaze_data_callback, as_dictionary=True)
 
 
+def get_random_video():
+    video_files = [f for f in os.listdir("videos") if f.endswith(".mp4")]
+    return os.path.join("videos", random.choice(video_files)) if video_files else None
+
+
 while (True):
 
     ### Badanie uplywu czasu
@@ -317,23 +324,19 @@ while (True):
         # 5. Runda z reklamą z zapowiedzią czasową (odliczanie)
         # 6. Runda z reklamą z zapowiedzią tekstową ("Za chwile pojawi się reklama")
 
-
+        video_path = get_random_video()
         if round_number == 1:
             print(round_number)
-            video_path = "videos/short.mp4"
             play_video(video_path, True, 1800, 850, 50, 100, "1. Pelny ekran, wznowienie czasu")
         if round_number == 2:
             print(round_number)
-            video_path = "videos/short.mp4"
             play_video(video_path, False, 1800, 850, 50, 100, "2. Pelny ekran, utrata czasu")
         if round_number == 3:
             print(round_number)
-            video_path = "videos/short.mp4"
             play_video(video_path, False, 600, 400, 1300, 300, "3. Reklama Sidebar")
         #ŹLE
         if round_number == 4:
             print(round_number)
-            video_path = "videos/short.mp4"
             if(remaining_time - 25 <= 0):
                 play_video(video_path, False, 600, 400, 1300, 300, "4. Reklama po 5 sekundach")
 
