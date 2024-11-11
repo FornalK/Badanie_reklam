@@ -1,7 +1,6 @@
 # import tobii_research as tr # biblioteka do integracji z eyetrackerem
 import time
 import cv2
-from datetime import datetime
 from tkinter import *
 from PIL import ImageTk, Image
 
@@ -120,6 +119,7 @@ def draw_dot(event):
         c.write("KLIKNIECIE: " + str(int(time.time())) + ", 0" + "\n")
     else:
         c.write("KLIKNIECIE: " + str(int(time.time())) +", 1" + "\n")
+    c.close()
 
     with open('dots_xy.txt', 'a') as f:
         f.write(str(dots) + ":\t x: " + str(x) + " y: " + str(y) + "\n")
