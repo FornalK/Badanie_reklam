@@ -3,19 +3,28 @@
 ## Programistyczne rzeczy do zrobienia
 
 - Dodanie nowych reklam
-- Obrobienie każdej reklamy do jednakowej długości
-- **DOPRECYZOWANIE SCENARIUSZY**
-- Realizacje różnych scenariuszy 
-  1. wietlanie bez zapowiedzi
-  2. Wyświetlanie z zapowiedzią czasową 
-  3. Wyświetlanie z zapowiedzią bez skonkretyzowania czasu (np od pojawienia sie komunikatu, reklama pojawi się losowo od 3 do 10 sekund)
-  4. Funkcja wyswietlajaca reklamy z przyciskiem pominiecia i bez
-- ~~Wyświetlanie reklam/wideo podczas dzialania aplikacji i gry~~
-- ~~Dodanie licznika czasu na obrazek dla użytkownika~~
-- ~~Być może dodanie licznika Punktów (problematyczne, trzeba wyznaczyc obszary na obrazkach w ktorych klikniecie zalicza punkt)~~
-- ~~Ustawic odpowiednie obszary dla każdego obrazka(areas3.txt -> testowy_3_1.jpg itd.)~~
-- ~~Zapis do pliku eventów (wyswietlenie sie reklamy, jaki to rodzaj reklamy, timestampy)~~
-- ~~Nie działa punktacja dla innych obrazków poza pierwszym~~
+- Obrobienie każdej reklamy do podobnych długości
+
+## Scenariusze
+- Wyświetlanie reklamy w całym obszarze gry bez zapowiedzi
+- Wyświetlanie reklamy w całym obszarze gry z zapowiedzią
+- Wyświetlanie reklamy w całym obszarze gry z zapowiedzią czasową (np. 5 sekund)
+- Wyświetlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+- Wyświetlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzią
+- Wyświetlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzią czasową (np. 5 sekund)
+- Wyświetlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+- Wyświetlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzią
+- Wyświetlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzią czasową (np. 5 sekund)
+- Wyświetlanie reklamy w całym obszarze gry bez zapowiedzi oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w całym obszarze gry z zapowiedzią oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w całym obszarze gry z zapowiedzią czasową (np. 5 sekund) oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzią oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzią czasową (np. 5 sekund) oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzią oraz możliwością pominięcia w ciągu 5 sekund.
+- Wyświetlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzią czasową (np. 5 sekund) oraz możliwością pominięcia w ciągu 5 sekund.
+
 ## Potrzebne biblioteki
 ```bash
 pip install Pillow
