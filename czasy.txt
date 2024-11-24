@@ -3553,3 +3553,14 @@ CZAS STARTU: 1731954083
 Reklama Start: 1731954090, Nazwa Reklamy: videos\1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
 KONIEC RUNDY: 1731954113
 Reklama Start: 1731954123, Nazwa Reklamy: videos\2.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+CZAS STARTU: 1732378747
+KLIKNIECIE: 1732378752, 1
+Reklama Start: 1732378753, Nazwa Reklamy: videos\3.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732378775, 1
+KONIEC RUNDY: 1732378777
+Reklama Start: 1732378790, Nazwa Reklamy: videos\2.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1732378807
+Reklama Start: 1732378821, Nazwa Reklamy: videos\3.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1732378837
+Reklama Start: 1732378845, Nazwa Reklamy: videos\3.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KONIEC RUNDY: 1732378867
