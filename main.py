@@ -91,13 +91,19 @@ def play_video(video_path, time_reset=True, width=400, height=300, x=100, y=100,
 
     def skip_ad():
         nonlocal cap
-        # Stop the video playback and proceed
+        with open('czasy.txt', 'a') as log_file:
+            log_file.write(
+                f"Reklama Pominięta: {int(time.time())}, Nazwa Reklamy: {video_path}, Scenariusz: {scenario}\n")
         cap.release()
         end_ad()
 
     def end_ad():
         nonlocal cap, video_label, skip_button, start_pause_time
         global paused_time, ad_playing, STIME
+        with open('czasy.txt', 'a') as log_file:
+            log_file.write(
+                f"Reklama Zakończona: {int(time.time())}, Nazwa Reklamy: {video_path}, Scenariusz: {scenario}\n")
+        cap.release()
         cap.release()
         video_label.pack_forget()  # Remove the label after the ad
         video_label.img_tk = None
@@ -197,7 +203,7 @@ def zacznij():
 nr_image = 0
 img_names = ["images/testowy_9_1.jpg", "images/testowy_6_1.jpg", "images/testowy_2_1.jpg", "images/testowy_8_1.jpg",
              "images/testowy_3_1.jpg", "images/testowy_7_1.jpg", "images/testowy_1_1.jpg", "images/testowy_5_1.jpg"] * 3
-czas_obrazka = 30  # Time for each image
+czas_obrazka = 90  # Time for each image
 
 # Create the main application window
 root = Tk()
@@ -243,24 +249,24 @@ def get_random_video():
 
 def schedule_ad():
     global ad_scheduled_event_id, ad_scheduled, round_number
-    # Only schedule ad if it hasn't been scheduled yet
     if not ad_scheduled:
-        # Determine ad parameters for this round
-        scenario_params = get_scenario_params(round_number)
-        if scenario_params:
-            video_path = get_random_video()
-            # Przybliżony czas trwania reklamy (np. 10 sekund)
-            ad_duration = 10  # w sekundach
-            # Generate a random delay within the round duration
-            min_delay = 5 * 1000  # Minimalne opóźnienie w milisekundach
-            safety_margin = ad_duration + 10  # Margines bezpieczeństwa (czas trwania reklamy + 10 sekund)
-            max_delay = (czas_obrazka - safety_margin) * 1000  # Maksymalne opóźnienie w milisekundach
-            if max_delay <= min_delay:
-                delay = min_delay
-            else:
-                delay = random.randint(min_delay, max_delay)
-            # Schedule the ad to start after the delay
-            ad_scheduled_event_id = root.after(delay, lambda: play_video(video_path, **scenario_params))
+        # Pobierz parametry scenariusza dla obu reklam
+        scenario_params1 = get_scenario_params(round_number * 2 - 1)
+        scenario_params2 = get_scenario_params(round_number * 2)
+        if scenario_params1 and scenario_params2:
+            video_path1 = get_random_video()
+            video_path2 = get_random_video()
+            ad_duration = 15  # Maksymalny czas trwania reklamy w sekundach
+
+            # Oblicz czasy wyświetlenia reklam
+            delay1 = random.randint(5, (czas_obrazka // 2 - ad_duration)) * 1000
+            delay2 = random.randint((czas_obrazka // 2 + 5), (czas_obrazka - ad_duration)) * 1000
+
+            # Zaplanuj obie reklamy
+            ad_scheduled_event_id = [
+                root.after(delay1, lambda: play_video(video_path1, **scenario_params1)),
+                root.after(delay2, lambda: play_video(video_path2, **scenario_params2))
+            ]
             ad_scheduled = True
 
 
