@@ -2,9 +2,11 @@ import time
 import random
 import os
 import cv2
+import threading
 from scenariusze import get_scenario_params
 from tkinter import *
 from PIL import ImageTk, Image
+from deepface import DeepFace
 
 ad_playing = False
 paused_time = 0
@@ -27,12 +29,66 @@ clicked_areas = set()
 ad_scheduled = False
 ad_scheduled_event_id = None
 
-def play_video(video_path, time_reset=True, width=400, height=300, x=100, y=100, scenario="Unknown Scenario", prior_notice=False, countdown_before_ad=0, skip_after=None):
+def detect_emotions_with_deepface(duration, start_time, ad_name, scenario):
+    """
+    Wykrywa emocje z kamery przez określony czas, używając DeepFace.
+    :param duration: Czas trwania odczytu (w sekundach)
+    :param start_time: Czas startu (timestamp)
+    :param ad_name: Nazwa reklamy
+    :param scenario: Scenariusz testowy
+    """
+    cap = cv2.VideoCapture(0)  # Użycie kamery (0 - pierwsza dostępna kamera)
+    if not cap.isOpened():
+        print("Nie znaleziono kamery! Upewnij się, że kamera jest podłączona.")
+        with open('emocje.txt', 'a') as log_file:
+            log_file.write(
+                f"Brak kamery! Emotions for ad '{ad_name}' (Scenario: {scenario}):\n"
+                f"Start Time: {start_time}, Duration: {duration}s\n"
+                f"Error: Camera not available\n\n"
+            )
+        return
+
+    end_time = time.time() + duration
+    emotions_log = []
+
+    while time.time() < end_time:
+        ret, frame = cap.read()
+        if not ret:
+            print("Nie udało się pobrać klatki z kamery.")
+            break
+
+        try:
+            # Wykrywanie emocji za pomocą DeepFace
+            analysis = DeepFace.analyze(frame, actions=['emotion'], enforce_detection=True)
+            dominant_emotion = analysis[0]["dominant_emotion"]
+            emotions_log.append(dominant_emotion)
+        except ValueError:
+            print("Nie wykryto twarzy na klatce.")
+        except Exception as e:
+            print(f"Błąd analizy emocji: {e}")
+
+        cv2.waitKey(100)  # Analiza co 100ms
+
+    cap.release()
+
+    # Zliczanie najczęściej wykrywanych emocji
+    if emotions_log:
+        emotion_count = {emotion: emotions_log.count(emotion) for emotion in set(emotions_log)}
+        most_common_emotion = max(emotion_count, key=emotion_count.get)
+    else:
+        most_common_emotion = "Brak danych"
+
+    # Zapis wyników do pliku
+    with open('emocje.txt', 'a') as log_file:
+        log_file.write(
+            f"Emotions for ad '{ad_name}' (Scenario: {scenario}):\nStart Time: {start_time}, Duration: {duration}s\n")
+        log_file.write(f"Dominant Emotion: {most_common_emotion}\n\n")
+def play_video(video_path, time_reset=True, width=400, height=300, x=100, y=100, scenario="Unknown Scenario",
+               prior_notice=False, countdown_before_ad=0, skip_after=None):
     global ad_playing
 
     ad_playing = True  # Pause the game timer
 
-    # Declare variables in the enclosing scope
     cap = None
     video_label = None
     skip_button = None
@@ -56,8 +112,14 @@ def play_video(video_path, time_reset=True, width=400, height=300, x=100, y=100,
 
         ad_start_time = time.time()
 
+        # Uruchomienie odczytu emocji w osobnym wątku 5 sekund przed i po reklamie
+        emotion_thread = threading.Thread(
+            target=detect_emotions_with_deepface,
+            args=(5 + (skip_after or 0) + 5, time.time() - 5, video_path, scenario)
+        )
+        emotion_thread.start()
+
         if skip_after is not None:
-            # Create skip button but disable it initially
             skip_button = Button(root, text="Pomiń reklamę", command=skip_ad,
                                  font=("Arial", 16, "bold"), width=15, height=2,
                                  bg="green", fg="white")
@@ -202,7 +264,7 @@ def zacznij():
 
 nr_image = 0
 img_names = ["images/testowy_9_1.jpg", "images/testowy_6_1.jpg", "images/testowy_2_1.jpg", "images/testowy_8_1.jpg",
-             "images/testowy_3_1.jpg", "images/testowy_7_1.jpg", "images/testowy_1_1.jpg", "images/testowy_5_1.jpg"] * 3
+             "images/testowy_3_1.jpg", "images/testowy_7_1.jpg", "images/testowy_1_1.jpg", "images/testowy_5_1.jpg"]
 czas_obrazka = 90  # Time for each image
 
 # Create the main application window
@@ -220,7 +282,7 @@ points_label.place(x=1500, y=50)
 info = "Po kliknięciu przycisku \"START\" po kolei zostanie Ci wyświetlonych 8 obrazków.\n" \
        "Twoim zadaniem jest znalezienie na każdym z nich jak największej liczby określonych elementów.\n" \
        "Informacje o tym czego masz szukać będą znajdować się bezpośrednio pod każdym obrazkiem.\n" \
-       "Na każdy z obrazków masz 75 sekund. Kiedy znajdziesz szukany element postaw na nim kropkę\n" \
+       "Na każdy z obrazków masz 90 sekund. Kiedy znajdziesz szukany element postaw na nim kropkę\n" \
        "lewym przyciskiem myszy (LPM). Aby usunąć postawioną kropkę użyj prawego przycisku myszy (PPM).\n\n " \
        "Naciśnij przycisk \"START\" aby rozpocząć"
 
