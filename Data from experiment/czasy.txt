@@ -1,0 +1,1983 @@
+user1
+
+CZAS STARTU: 1732621410
+KLIKNIECIE: 1732621413, 1
+KLIKNIECIE: 1732621415, 1
+Reklama Start: 1732621421, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 1. Wy?wietlanie reklamy w ca?ym obszarze gry bez zapowiedzi
+Reklama Zako?czona: 1732621439, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 1. Wy?wietlanie reklamy w ca?ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732621446, 1
+KLIKNIECIE: 1732621451, 1
+KLIKNIECIE: 1732621458, 1
+KLIKNIECIE: 1732621461, 1
+KLIKNIECIE: 1732621466, 1
+Reklama Start: 1732621473, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 2. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi?
+Reklama Zako?czona: 1732621491, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 2. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi?
+KLIKNIECIE: 1732621499, 1
+KONIEC RUNDY: 1732621500
+KLIKNIECIE: 1732621507, 1
+KLIKNIECIE: 1732621515, 1
+Reklama Start: 1732621525, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 3. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? czasow? (np. 5 sekund)
+Reklama Zako?czona: 1732621543, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 3. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? czasow? (np. 5 sekund)
+KLIKNIECIE: 1732621549, 1
+KLIKNIECIE: 1732621561, 1
+Reklama Start: 1732621563, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 4. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732621570, 1
+Reklama Zako?czona: 1732621576, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 4. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732621579, 1
+KLIKNIECIE: 1732621589, 1
+KONIEC RUNDY: 1732621590
+KLIKNIECIE: 1732621600, 1
+KLIKNIECIE: 1732621607, 1
+Reklama Start: 1732621618, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 5. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi?
+Reklama Zako?czona: 1732621631, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 5. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi?
+KLIKNIECIE: 1732621637, 1
+KLIKNIECIE: 1732621647, 1
+KLIKNIECIE: 1732621651, 1
+KLIKNIECIE: 1732621655, 1
+Reklama Start: 1732621666, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 6. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi? czasow? (np. 5 sekund)
+KLIKNIECIE: 1732621667, 1
+Reklama Zako?czona: 1732621679, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 6. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi? czasow? (np. 5 sekund)
+KONIEC RUNDY: 1732621680
+KLIKNIECIE: 1732621685, 1
+KLIKNIECIE: 1732621694, 1
+KLIKNIECIE: 1732621699, 1
+Reklama Start: 1732621702, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 7. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1732621708, 1
+KLIKNIECIE: 1732621710, 1
+Reklama Zako?czona: 1732621715, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 7. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1732621718, 1
+KLIKNIECIE: 1732621720, 1
+KLIKNIECIE: 1732621724, 1
+KLIKNIECIE: 1732621737, 1
+Reklama Start: 1732621745, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 8. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi?
+Reklama Zako?czona: 1732621758, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 8. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi?
+KONIEC RUNDY: 1732621770
+KLIKNIECIE: 1732621772, 1
+KLIKNIECIE: 1732621778, 1
+Reklama Start: 1732621790, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 9. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi? czasow? (np. 5 sekund)
+KLIKNIECIE: 1732621791, 1
+KLIKNIECIE: 1732621793, 1
+KLIKNIECIE: 1732621795, 1
+KLIKNIECIE: 1732621797, 1
+KLIKNIECIE: 1732621800, 0
+Reklama Zako?czona: 1732621803, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 9. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi? czasow? (np. 5 sekund)
+Reklama Start: 1732621834, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 10. Wy?wietlanie reklamy w ca?ym obszarze gry bez zapowiedzi oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Pomini?ta: 1732621840, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 10. Wy?wietlanie reklamy w ca?ym obszarze gry bez zapowiedzi oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Zako?czona: 1732621840, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 10. Wy?wietlanie reklamy w ca?ym obszarze gry bez zapowiedzi oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KONIEC RUNDY: 1732621860
+KLIKNIECIE: 1732621865, 1
+Reklama Start: 1732621876, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 11. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Pomini?ta: 1732621882, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 11. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Zako?czona: 1732621882, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 11. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KLIKNIECIE: 1732621923, 1
+KLIKNIECIE: 1732621928, 1
+Reklama Start: 1732621928, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 12. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? czasow? (np. 5 sekund) oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Pomini?ta: 1732621934, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 12. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? czasow? (np. 5 sekund) oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Zako?czona: 1732621934, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 12. Wy?wietlanie reklamy w ca?ym obszarze gry z zapowiedzi? czasow? (np. 5 sekund) oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KLIKNIECIE: 1732621947, 1
+KONIEC RUNDY: 1732621950
+Reklama Start: 1732621955, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 13. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KLIKNIECIE: 1732621964, 1
+KLIKNIECIE: 1732621967, 1
+Reklama Zako?czona: 1732621969, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 13. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KLIKNIECIE: 1732621973, 1
+KLIKNIECIE: 1732621981, 1
+KLIKNIECIE: 1732621996, 1
+KLIKNIECIE: 1732621998, 1
+KLIKNIECIE: 1732622000, 1
+KLIKNIECIE: 1732622016, 1
+Reklama Start: 1732622025, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 14. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi? oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Pomini?ta: 1732622031, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 14. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi? oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Zako?czona: 1732622031, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 14. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi? oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KONIEC RUNDY: 1732622040
+Reklama Start: 1732622050, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 15. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi? czasow? (np. 5 sekund) oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KLIKNIECIE: 1732622054, 1
+KLIKNIECIE: 1732622063, 1
+Reklama Zako?czona: 1732622064, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 15. Wy?wietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi? czasow? (np. 5 sekund) oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KLIKNIECIE: 1732622072, 1
+KLIKNIECIE: 1732622073, 1
+KLIKNIECIE: 1732622085, 1
+KLIKNIECIE: 1732622090, 1
+KLIKNIECIE: 1732622092, 1
+KLIKNIECIE: 1732622095, 1
+KLIKNIECIE: 1732622102, 1
+KLIKNIECIE: 1732622105, 1
+Reklama Start: 1732622114, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 16. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+Reklama Zako?czona: 1732622128, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 16. Wy?wietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo?liwo?ci? pomini?cia w ci?gu 5 sekund
+KONIEC RUNDY: 1732622130
+
+==========================================================
+
+user2
+
+CZAS STARTU: 1732624009
+KLIKNIECIE: 1732624010, 0
+KLIKNIECIE: 1732624011, 1
+KLIKNIECIE: 1732624013, 1
+KLIKNIECIE: 1732624014, 1
+KLIKNIECIE: 1732624020, 1
+Reklama Start: 1732624023, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1732624041, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732624045, 1
+KLIKNIECIE: 1732624051, 1
+KLIKNIECIE: 1732624055, 1
+KLIKNIECIE: 1732624065, 1
+KLIKNIECIE: 1732624068, 1
+Reklama Start: 1732624085, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1732624099
+KLIKNIECIE: 1732624100, 1
+Reklama Zakoñczona: 1732624103, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1732624105, 1
+KLIKNIECIE: 1732624112, 1
+KLIKNIECIE: 1732624118, 1
+Reklama Start: 1732624123, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1732624141, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732624146, 1
+Reklama Start: 1732624149, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732624158, 1
+Reklama Zakoñczona: 1732624162, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732624164, 1
+KLIKNIECIE: 1732624170, 1
+KLIKNIECIE: 1732624179, 1
+KLIKNIECIE: 1732624188, 1
+KONIEC RUNDY: 1732624189
+KLIKNIECIE: 1732624193, 1
+KLIKNIECIE: 1732624194, 1
+KLIKNIECIE: 1732624198, 1
+KLIKNIECIE: 1732624200, 1
+KLIKNIECIE: 1732624203, 1
+Reklama Start: 1732624206, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1732624219, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1732624225, 0
+KLIKNIECIE: 1732624227, 1
+KLIKNIECIE: 1732624231, 0
+KLIKNIECIE: 1732624235, 1
+Reklama Start: 1732624269, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1732624279
+KLIKNIECIE: 1732624281, 1
+Reklama Zakoñczona: 1732624282, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732624287, 1
+KLIKNIECIE: 1732624299, 1
+KLIKNIECIE: 1732624301, 1
+Reklama Start: 1732624304, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1732624309, 1
+KLIKNIECIE: 1732624311, 1
+KLIKNIECIE: 1732624314, 1
+Reklama Zakoñczona: 1732624317, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1732624321, 1
+Reklama Start: 1732624335, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1732624341, 1
+Reklama Zakoñczona: 1732624348, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1732624369
+KLIKNIECIE: 1732624375, 1
+Reklama Start: 1732624379, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732624383, 1
+Reklama Zakoñczona: 1732624392, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732624397, 1
+KLIKNIECIE: 1732624403, 1
+KLIKNIECIE: 1732624413, 1
+KLIKNIECIE: 1732624431, 1
+KLIKNIECIE: 1732624433, 1
+Reklama Start: 1732624440, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624447, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624447, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624454, 1
+KONIEC RUNDY: 1732624459
+KLIKNIECIE: 1732624468, 1
+Reklama Start: 1732624471, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624477, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624477, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624480, 0
+KLIKNIECIE: 1732624490, 1
+KLIKNIECIE: 1732624494, 1
+Reklama Start: 1732624515, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624521, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624521, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624524, 1
+KLIKNIECIE: 1732624531, 1
+KONIEC RUNDY: 1732624549
+Reklama Start: 1732624555, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624561, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624561, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624565, 1
+KLIKNIECIE: 1732624573, 1
+KLIKNIECIE: 1732624578, 1
+KLIKNIECIE: 1732624596, 1
+Reklama Start: 1732624605, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624611, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624611, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624623, 1
+KLIKNIECIE: 1732624630, 0
+KONIEC RUNDY: 1732624639
+KLIKNIECIE: 1732624645, 1
+KLIKNIECIE: 1732624655, 1
+KLIKNIECIE: 1732624659, 1
+Reklama Start: 1732624662, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624668, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624668, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624674, 1
+KLIKNIECIE: 1732624680, 1
+KLIKNIECIE: 1732624685, 1
+KLIKNIECIE: 1732624693, 1
+Reklama Start: 1732624696, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624703, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624703, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624710, 1
+KONIEC RUNDY: 1732624729
+KLIKNIECIE: 1732624735, 1
+KLIKNIECIE: 1732624743, 1
+Reklama Start: 1732624747, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732624753, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624753, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624755, 1
+KLIKNIECIE: 1732624764, 1
+KLIKNIECIE: 1732624772, 1
+KLIKNIECIE: 1732624786, 1
+Reklama Start: 1732624790, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624792, 1
+Reklama Pominiêta: 1732624799, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732624799, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732624809, 1
+KLIKNIECIE: 1732624819, 1
+CZAS ZAKONCZENIA: 1732624824
+CALKOWITY CZAS EKSERYMENTU: 815.2815539836884
+
+==========================================================
+
+user3
+
+CZAS STARTU: 1732625104
+KLIKNIECIE: 1732625109, 1
+KLIKNIECIE: 1732625110, 1
+KLIKNIECIE: 1732625115, 1
+KLIKNIECIE: 1732625117, 1
+KLIKNIECIE: 1732625124, 1
+Reklama Start: 1732625128, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1732625146, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732625153, 1
+KLIKNIECIE: 1732625155, 1
+KLIKNIECIE: 1732625157, 1
+Reklama Start: 1732625159, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1732625178, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1732625182, 1
+KLIKNIECIE: 1732625185, 1
+KLIKNIECIE: 1732625189, 1
+KONIEC RUNDY: 1732625194
+KLIKNIECIE: 1732625197, 1
+KLIKNIECIE: 1732625209, 1
+Reklama Start: 1732625222, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1732625241, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732625243, 1
+KLIKNIECIE: 1732625247, 1
+KLIKNIECIE: 1732625256, 1
+Reklama Start: 1732625260, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1732625274, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1732625277, 1
+KONIEC RUNDY: 1732625284
+KLIKNIECIE: 1732625289, 1
+KLIKNIECIE: 1732625294, 1
+KLIKNIECIE: 1732625297, 1
+Reklama Start: 1732625316, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1732625330, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1732625335, 1
+KLIKNIECIE: 1732625340, 1
+Reklama Start: 1732625343, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1732625357, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732625364, 0
+KONIEC RUNDY: 1732625374
+KLIKNIECIE: 1732625378, 1
+KLIKNIECIE: 1732625383, 1
+KLIKNIECIE: 1732625385, 1
+KLIKNIECIE: 1732625397, 1
+KLIKNIECIE: 1732625403, 1
+Reklama Start: 1732625404, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1732625417, 1
+Reklama Zakoñczona: 1732625418, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1732625427, 1
+KLIKNIECIE: 1732625432, 1
+KLIKNIECIE: 1732625444, 1
+Reklama Start: 1732625449, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1732625463, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1732625464
+KLIKNIECIE: 1732625468, 1
+KLIKNIECIE: 1732625471, 1
+KLIKNIECIE: 1732625483, 1
+KLIKNIECIE: 1732625486, 1
+KLIKNIECIE: 1732625490, 1
+Reklama Start: 1732625494, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732625501, 1
+Reklama Zakoñczona: 1732625508, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1732625508, 1
+Reklama Start: 1732625532, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732625539, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625539, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1732625554
+KLIKNIECIE: 1732625561, 0
+KLIKNIECIE: 1732625563, 1
+KLIKNIECIE: 1732625572, 1
+Reklama Start: 1732625581, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732625587, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625587, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625592, 1
+KLIKNIECIE: 1732625595, 1
+KLIKNIECIE: 1732625599, 1
+KLIKNIECIE: 1732625601, 1
+Reklama Start: 1732625612, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732625619, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625619, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625627, 0
+KLIKNIECIE: 1732625629, 0
+KLIKNIECIE: 1732625630, 0
+KONIEC RUNDY: 1732625644
+KLIKNIECIE: 1732625660, 1
+Reklama Start: 1732625669, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625670, 1
+Reklama Pominiêta: 1732625676, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625676, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625691, 1
+KLIKNIECIE: 1732625696, 1
+KLIKNIECIE: 1732625705, 1
+Reklama Start: 1732625707, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625721, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625724, 1
+KONIEC RUNDY: 1732625734
+KLIKNIECIE: 1732625739, 1
+Reklama Start: 1732625746, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625747, 1
+Reklama Pominiêta: 1732625752, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625752, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625760, 1
+KLIKNIECIE: 1732625766, 1
+KLIKNIECIE: 1732625771, 1
+KLIKNIECIE: 1732625776, 1
+KLIKNIECIE: 1732625796, 1
+Reklama Start: 1732625799, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732625806, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625806, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1732625824
+KLIKNIECIE: 1732625827, 1
+KLIKNIECIE: 1732625839, 1
+Reklama Start: 1732625843, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1732625852, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1732625852, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625862, 1
+KLIKNIECIE: 1732625864, 1
+KLIKNIECIE: 1732625867, 1
+KLIKNIECIE: 1732625869, 1
+KLIKNIECIE: 1732625872, 1
+KLIKNIECIE: 1732625883, 1
+Reklama Start: 1732625884, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1732625894, 1
+Reklama Zakoñczona: 1732625898, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1732625919
+CALKOWITY CZAS EKSERYMENTU: 815.2767858505249
+
+==========================================================
+
+user4
+
+CZAS STARTU: 1734370714
+Reklama Start: 1734370722, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1734370741, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1734370748, 1
+KLIKNIECIE: 1734370752, 1
+KLIKNIECIE: 1734370767, 1
+KLIKNIECIE: 1734370772, 1
+KLIKNIECIE: 1734370775, 1
+KLIKNIECIE: 1734370782, 1
+Reklama Start: 1734370784, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1734370803, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1734370804
+KLIKNIECIE: 1734370810, 1
+KLIKNIECIE: 1734370817, 1
+Reklama Start: 1734370821, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1734370840, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1734370846, 1
+KLIKNIECIE: 1734370848, 1
+KLIKNIECIE: 1734370853, 1
+Reklama Start: 1734370862, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1734370863, 1
+Reklama Zakoñczona: 1734370876, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1734370887, 1
+KONIEC RUNDY: 1734370894
+KLIKNIECIE: 1734370899, 1
+KLIKNIECIE: 1734370910, 1
+KLIKNIECIE: 1734370921, 1
+Reklama Start: 1734370925, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1734370926, 1
+Reklama Zakoñczona: 1734370939, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1734370942, 0
+KLIKNIECIE: 1734370948, 0
+Reklama Start: 1734370961, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1734370975, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1734370984
+KLIKNIECIE: 1734370993, 1
+Reklama Start: 1734370998, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1734371003, 1
+KLIKNIECIE: 1734371006, 1
+Reklama Zakoñczona: 1734371012, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1734371023, 1
+KLIKNIECIE: 1734371038, 1
+KLIKNIECIE: 1734371040, 1
+KLIKNIECIE: 1734371043, 1
+KLIKNIECIE: 1734371047, 1
+KLIKNIECIE: 1734371056, 1
+Reklama Start: 1734371064, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1734371074
+Reklama Zakoñczona: 1734371078, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1734371078, 1
+KLIKNIECIE: 1734371080, 1
+KLIKNIECIE: 1734371087, 1
+Reklama Start: 1734371091, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1734371093, 1
+KLIKNIECIE: 1734371096, 1
+Reklama Zakoñczona: 1734371105, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1734371132, 1
+KLIKNIECIE: 1734371136, 1
+Reklama Start: 1734371138, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734371144, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371144, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371157, 1
+KONIEC RUNDY: 1734371164
+KLIKNIECIE: 1734371167, 0
+KLIKNIECIE: 1734371175, 1
+KLIKNIECIE: 1734371177, 0
+KLIKNIECIE: 1734371181, 1
+KLIKNIECIE: 1734371185, 1
+Reklama Start: 1734371193, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734371200, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371200, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371209, 1
+KLIKNIECIE: 1734371214, 1
+Reklama Start: 1734371234, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734371240, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371240, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1734371254
+KLIKNIECIE: 1734371265, 1
+KLIKNIECIE: 1734371267, 1
+KLIKNIECIE: 1734371272, 0
+Reklama Start: 1734371280, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734371286, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371286, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371293, 1
+KLIKNIECIE: 1734371302, 1
+KLIKNIECIE: 1734371317, 1
+Reklama Start: 1734371334, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734371341, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371341, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1734371344
+KLIKNIECIE: 1734371352, 1
+KLIKNIECIE: 1734371364, 1
+Reklama Start: 1734371365, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371369, 1
+KLIKNIECIE: 1734371374, 1
+Reklama Pominiêta: 1734371378, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371378, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371380, 1
+KLIKNIECIE: 1734371383, 1
+KLIKNIECIE: 1734371391, 1
+Reklama Start: 1734371415, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371425, 1
+Reklama Pominiêta: 1734371427, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371427, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1734371434
+KLIKNIECIE: 1734371438, 1
+KLIKNIECIE: 1734371444, 1
+KLIKNIECIE: 1734371449, 1
+Reklama Start: 1734371458, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371461, 1
+KLIKNIECIE: 1734371466, 1
+Reklama Pominiêta: 1734371467, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371467, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734371469, 1
+KLIKNIECIE: 1734371475, 1
+KLIKNIECIE: 1734371495, 1
+KLIKNIECIE: 1734371503, 1
+Reklama Start: 1734371512, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734371521, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734371521, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1734371529
+CALKOWITY CZAS EKSERYMENTU: 815.4614531993866
+
+==========================================================
+
+user5
+
+CZAS STARTU: 1734371683
+KLIKNIECIE: 1734371699, 1
+Reklama Start: 1734371710, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1734371729, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1734371734, 1
+Reklama Start: 1734371743, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1734371762, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1734371768, 1
+KLIKNIECIE: 1734371773, 1
+KONIEC RUNDY: 1734371773
+KLIKNIECIE: 1734371782, 1
+KLIKNIECIE: 1734371784, 1
+Reklama Start: 1734371788, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1734371807, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1734371809, 1
+KLIKNIECIE: 1734371816, 0
+KLIKNIECIE: 1734371827, 1
+KLIKNIECIE: 1734371833, 1
+Reklama Start: 1734371835, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1734371843, 1
+Reklama Zakoñczona: 1734371849, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1734371849, 1
+KONIEC RUNDY: 1734371863
+KLIKNIECIE: 1734371883, 0
+Reklama Start: 1734371890, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1734371899, 0
+Reklama Zakoñczona: 1734371904, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1734371906, 1
+KLIKNIECIE: 1734371914, 1
+KLIKNIECIE: 1734371916, 0
+KLIKNIECIE: 1734371929, 1
+Reklama Start: 1734371935, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1734371949, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1734371952, 0
+KONIEC RUNDY: 1734371953
+KLIKNIECIE: 1734371970, 1
+Reklama Start: 1734371974, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1734371976, 1
+KLIKNIECIE: 1734371985, 1
+Reklama Zakoñczona: 1734371988, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1734371999, 1
+KLIKNIECIE: 1734372005, 1
+KLIKNIECIE: 1734372010, 1
+KLIKNIECIE: 1734372014, 1
+Reklama Start: 1734372023, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1734372037, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1734372043
+KLIKNIECIE: 1734372046, 1
+KLIKNIECIE: 1734372049, 1
+KLIKNIECIE: 1734372052, 1
+KLIKNIECIE: 1734372055, 1
+Reklama Start: 1734372074, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1734372086, 1
+Reklama Zakoñczona: 1734372088, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1734372098, 1
+KLIKNIECIE: 1734372100, 1
+KLIKNIECIE: 1734372104, 1
+KLIKNIECIE: 1734372107, 1
+Reklama Start: 1734372113, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734372119, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734372119, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1734372133
+KLIKNIECIE: 1734372137, 0
+KLIKNIECIE: 1734372140, 1
+KLIKNIECIE: 1734372143, 1
+KLIKNIECIE: 1734372147, 0
+KLIKNIECIE: 1734372155, 1
+Reklama Start: 1734372159, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734372165, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734372165, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372169, 0
+KLIKNIECIE: 1734372174, 1
+Reklama Start: 1734372201, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734372207, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734372207, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1734372223
+Reklama Start: 1734372230, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372231, 1
+KLIKNIECIE: 1734372237, 1
+Reklama Zakoñczona: 1734372244, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372247, 1
+KLIKNIECIE: 1734372270, 1
+KLIKNIECIE: 1734372277, 0
+Reklama Start: 1734372283, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372285, 1
+KLIKNIECIE: 1734372295, 1
+Reklama Pominiêta: 1734372296, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734372296, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1734372313
+KLIKNIECIE: 1734372325, 1
+KLIKNIECIE: 1734372329, 1
+KLIKNIECIE: 1734372332, 1
+KLIKNIECIE: 1734372336, 0
+Reklama Start: 1734372337, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1734372344, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1734372344, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372363, 1
+Reklama Start: 1734372372, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372377, 1
+Reklama Zakoñczona: 1734372386, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372387, 1
+KONIEC RUNDY: 1734372403
+KLIKNIECIE: 1734372409, 1
+Reklama Start: 1734372413, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372419, 1
+Reklama Zakoñczona: 1734372427, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1734372427, 1
+KLIKNIECIE: 1734372430, 1
+KLIKNIECIE: 1734372443, 1
+KLIKNIECIE: 1734372447, 1
+KLIKNIECIE: 1734372457, 1
+KLIKNIECIE: 1734372468, 1
+KLIKNIECIE: 1734372478, 1
+Reklama Start: 1734372481, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1734372498
+CALKOWITY CZAS EKSERYMENTU: 815.2984035015106
+
+==========================================================
+
+user6
+
+CZAS STARTU: 1736759700
+KLIKNIECIE: 1736759707, 1
+KLIKNIECIE: 1736759710, 1
+KLIKNIECIE: 1736759712, 1
+Reklama Start: 1736759715, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736759734, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736759748, 1
+Reklama Start: 1736759762, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736759781, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736759790, 1
+KONIEC RUNDY: 1736759790
+KLIKNIECIE: 1736759796, 1
+Reklama Start: 1736759805, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736759824, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736759837, 1
+Reklama Start: 1736759842, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736759856, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736759865, 1
+KLIKNIECIE: 1736759878, 1
+KONIEC RUNDY: 1736759880
+KLIKNIECIE: 1736759892, 0
+KLIKNIECIE: 1736759898, 0
+KLIKNIECIE: 1736759899, 0
+KLIKNIECIE: 1736759900, 0
+KLIKNIECIE: 1736759900, 0
+KLIKNIECIE: 1736759901, 0
+Reklama Start: 1736759901, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736759915, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736759925, 1
+KLIKNIECIE: 1736759936, 1
+KLIKNIECIE: 1736759950, 0
+KLIKNIECIE: 1736759951, 0
+Reklama Start: 1736759954, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736759968, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736759969, 1
+KONIEC RUNDY: 1736759970
+KLIKNIECIE: 1736759978, 1
+KLIKNIECIE: 1736759983, 1
+KLIKNIECIE: 1736759990, 1
+Reklama Start: 1736759991, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+Reklama Zakoñczona: 1736760005, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736760010, 1
+KLIKNIECIE: 1736760019, 1
+Reklama Start: 1736760025, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736760039, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1736760040, 1
+KLIKNIECIE: 1736760048, 1
+KONIEC RUNDY: 1736760060
+KLIKNIECIE: 1736760066, 1
+KLIKNIECIE: 1736760079, 1
+Reklama Start: 1736760084, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736760098, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736760098, 1
+KLIKNIECIE: 1736760106, 1
+KLIKNIECIE: 1736760113, 1
+KLIKNIECIE: 1736760120, 1
+Reklama Start: 1736760122, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736760130, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736760130, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760134, 1
+KLIKNIECIE: 1736760150, 1
+KONIEC RUNDY: 1736760150
+KLIKNIECIE: 1736760157, 1
+KLIKNIECIE: 1736760163, 0
+Reklama Start: 1736760167, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736760175, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736760175, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760187, 1
+KLIKNIECIE: 1736760194, 1
+KLIKNIECIE: 1736760204, 1
+KLIKNIECIE: 1736760211, 1
+Reklama Start: 1736760212, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736760219, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736760219, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760226, 1
+KONIEC RUNDY: 1736760240
+KLIKNIECIE: 1736760250, 1
+KLIKNIECIE: 1736760260, 1
+Reklama Start: 1736760260, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736760269, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736760269, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760272, 1
+KLIKNIECIE: 1736760286, 0
+KLIKNIECIE: 1736760295, 1
+Reklama Start: 1736760313, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736760320, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736760320, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736760330
+KLIKNIECIE: 1736760342, 1
+Reklama Start: 1736760346, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760355, 1
+Reklama Pominiêta: 1736760356, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736760356, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760360, 1
+KLIKNIECIE: 1736760371, 1
+KLIKNIECIE: 1736760378, 1
+Reklama Start: 1736760386, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760389, 1
+Reklama Zakoñczona: 1736760400, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760405, 1
+KONIEC RUNDY: 1736760420
+KLIKNIECIE: 1736760430, 1
+KLIKNIECIE: 1736760436, 1
+KLIKNIECIE: 1736760446, 1
+Reklama Start: 1736760450, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760458, 1
+Reklama Pominiêta: 1736760459, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736760459, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760474, 1
+Reklama Start: 1736760476, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760484, 1
+KLIKNIECIE: 1736760488, 1
+Reklama Zakoñczona: 1736760490, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736760494, 1
+KLIKNIECIE: 1736760501, 1
+KLIKNIECIE: 1736760508, 1
+CZAS ZAKONCZENIA: 1736760515
+CALKOWITY CZAS EKSERYMENTU: 815.4406361579895
+
+==========================================================
+
+user7
+
+CZAS STARTU: 1736760982
+KLIKNIECIE: 1736760987, 1
+KLIKNIECIE: 1736760992, 1
+KLIKNIECIE: 1736760998, 1
+KLIKNIECIE: 1736761003, 1
+KLIKNIECIE: 1736761009, 1
+Reklama Start: 1736761011, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736761030, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736761044, 1
+KLIKNIECIE: 1736761048, 1
+Reklama Start: 1736761056, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1736761072
+Reklama Zakoñczona: 1736761075, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736761078, 1
+KLIKNIECIE: 1736761079, 1
+KLIKNIECIE: 1736761084, 1
+Reklama Start: 1736761093, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736761112, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736761120, 1
+Reklama Start: 1736761122, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736761136, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736761138, 1
+KLIKNIECIE: 1736761143, 1
+KONIEC RUNDY: 1736761162
+KLIKNIECIE: 1736761168, 1
+KLIKNIECIE: 1736761177, 1
+KLIKNIECIE: 1736761190, 1
+Reklama Start: 1736761193, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736761207, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736761208, 0
+KLIKNIECIE: 1736761215, 1
+KLIKNIECIE: 1736761217, 0
+KLIKNIECIE: 1736761221, 1
+Reklama Start: 1736761241, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736761242, 0
+KONIEC RUNDY: 1736761252
+Reklama Zakoñczona: 1736761255, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736761256, 1
+KLIKNIECIE: 1736761258, 1
+KLIKNIECIE: 1736761260, 1
+KLIKNIECIE: 1736761263, 1
+KLIKNIECIE: 1736761268, 1
+KLIKNIECIE: 1736761269, 1
+KLIKNIECIE: 1736761272, 1
+KLIKNIECIE: 1736761276, 1
+KLIKNIECIE: 1736761279, 1
+Reklama Start: 1736761279, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+Reklama Zakoñczona: 1736761293, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+Reklama Start: 1736761307, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736761321, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1736761342
+KLIKNIECIE: 1736761353, 1
+KLIKNIECIE: 1736761359, 1
+Reklama Start: 1736761360, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736761363, 1
+KLIKNIECIE: 1736761371, 1
+Reklama Zakoñczona: 1736761374, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736761377, 1
+KLIKNIECIE: 1736761382, 1
+Reklama Start: 1736761400, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736761406, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761406, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736761432
+KLIKNIECIE: 1736761436, 1
+KLIKNIECIE: 1736761439, 1
+KLIKNIECIE: 1736761442, 1
+KLIKNIECIE: 1736761443, 1
+KLIKNIECIE: 1736761446, 1
+KLIKNIECIE: 1736761453, 1
+Reklama Start: 1736761457, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736761462, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761462, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736761466, 0
+Reklama Start: 1736761511, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736761517, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761517, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736761522
+KLIKNIECIE: 1736761530, 1
+KLIKNIECIE: 1736761536, 1
+Reklama Start: 1736761539, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736761545, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761545, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736761549, 1
+KLIKNIECIE: 1736761555, 1
+Reklama Start: 1736761594, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736761600, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761600, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736761612
+KLIKNIECIE: 1736761624, 1
+Reklama Start: 1736761633, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736761640, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761640, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736761643, 1
+KLIKNIECIE: 1736761653, 1
+KLIKNIECIE: 1736761656, 1
+KLIKNIECIE: 1736761660, 1
+KLIKNIECIE: 1736761662, 1
+KLIKNIECIE: 1736761674, 1
+KLIKNIECIE: 1736761677, 1
+Reklama Start: 1736761681, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761695, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736761702
+KLIKNIECIE: 1736761709, 1
+KLIKNIECIE: 1736761713, 1
+Reklama Start: 1736761714, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736761720, 1
+KLIKNIECIE: 1736761723, 1
+KLIKNIECIE: 1736761724, 1
+KLIKNIECIE: 1736761727, 1
+Reklama Zakoñczona: 1736761728, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736761729, 1
+KLIKNIECIE: 1736761732, 1
+KLIKNIECIE: 1736761740, 1
+KLIKNIECIE: 1736761743, 1
+Reklama Start: 1736761760, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736761774, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736761797
+CALKOWITY CZAS EKSERYMENTU: 815.2736923694611
+
+==========================================================
+
+user8
+
+CZAS STARTU: 1736761983
+KLIKNIECIE: 1736761996, 0
+Reklama Start: 1736761996, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736762017, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736762028, 0
+KLIKNIECIE: 1736762040, 0
+Reklama Start: 1736762045, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736762066, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736762073, 0
+KONIEC RUNDY: 1736762073
+KLIKNIECIE: 1736762082, 0
+KLIKNIECIE: 1736762090, 0
+KLIKNIECIE: 1736762103, 0
+Reklama Start: 1736762104, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736762125, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736762131, 0
+Reklama Start: 1736762133, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736762148, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736762150, 0
+KLIKNIECIE: 1736762151, 0
+KLIKNIECIE: 1736762161, 0
+KONIEC RUNDY: 1736762163
+Reklama Start: 1736762173, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736762188, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736762191, 0
+KLIKNIECIE: 1736762197, 0
+KLIKNIECIE: 1736762226, 0
+KLIKNIECIE: 1736762237, 0
+Reklama Start: 1736762243, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1736762253
+Reklama Zakoñczona: 1736762257, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736762259, 0
+KLIKNIECIE: 1736762260, 0
+Reklama Start: 1736762262, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+Reklama Zakoñczona: 1736762276, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736762280, 1
+Reklama Start: 1736762320, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1736762326, 1
+KLIKNIECIE: 1736762330, 1
+Reklama Zakoñczona: 1736762334, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1736762335, 1
+KLIKNIECIE: 1736762337, 1
+KLIKNIECIE: 1736762340, 1
+KLIKNIECIE: 1736762343, 1
+KONIEC RUNDY: 1736762343
+KLIKNIECIE: 1736762346, 1
+KLIKNIECIE: 1736762353, 1
+KLIKNIECIE: 1736762356, 1
+KLIKNIECIE: 1736762361, 1
+Reklama Start: 1736762363, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736762365, 1
+KLIKNIECIE: 1736762369, 1
+KLIKNIECIE: 1736762375, 1
+KLIKNIECIE: 1736762377, 1
+Reklama Zakoñczona: 1736762377, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736762379, 1
+Reklama Start: 1736762416, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762424, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762424, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736762433
+KLIKNIECIE: 1736762438, 0
+KLIKNIECIE: 1736762440, 1
+Reklama Start: 1736762449, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762456, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762456, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736762460, 1
+KLIKNIECIE: 1736762461, 0
+KLIKNIECIE: 1736762463, 1
+KLIKNIECIE: 1736762466, 1
+KLIKNIECIE: 1736762469, 1
+Reklama Start: 1736762499, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762508, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762508, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736762523
+KLIKNIECIE: 1736762531, 1
+KLIKNIECIE: 1736762538, 1
+Reklama Start: 1736762552, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762559, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762559, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736762566, 1
+Reklama Start: 1736762604, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762609, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762609, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736762614
+KLIKNIECIE: 1736762620, 1
+Reklama Start: 1736762626, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762632, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762632, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736762633, 1
+KLIKNIECIE: 1736762634, 1
+KLIKNIECIE: 1736762654, 1
+KLIKNIECIE: 1736762658, 1
+KLIKNIECIE: 1736762662, 1
+KLIKNIECIE: 1736762667, 1
+KLIKNIECIE: 1736762675, 1
+Reklama Start: 1736762681, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762690, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762690, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736762704
+KLIKNIECIE: 1736762707, 1
+KLIKNIECIE: 1736762714, 1
+KLIKNIECIE: 1736762716, 1
+KLIKNIECIE: 1736762724, 1
+Reklama Start: 1736762730, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736762731, 1
+Reklama Pominiêta: 1736762736, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762736, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736762743, 1
+KLIKNIECIE: 1736762745, 1
+KLIKNIECIE: 1736762749, 1
+KLIKNIECIE: 1736762751, 1
+KLIKNIECIE: 1736762754, 1
+Reklama Start: 1736762779, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736762786, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736762786, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736762799
+CALKOWITY CZAS EKSERYMENTU: 815.2896144390106
+
+==========================================================
+
+user9
+
+CZAS STARTU: 1736762940
+KLIKNIECIE: 1736762950, 1
+KLIKNIECIE: 1736762959, 1
+Reklama Start: 1736762961, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736762981, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736762985, 1
+KLIKNIECIE: 1736762988, 1
+KLIKNIECIE: 1736762989, 0
+KLIKNIECIE: 1736763006, 1
+Reklama Start: 1736763016, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1736763030
+KLIKNIECIE: 1736763034, 1
+Reklama Zakoñczona: 1736763035, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736763040, 1
+KLIKNIECIE: 1736763043, 1
+KLIKNIECIE: 1736763045, 1
+Reklama Start: 1736763056, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736763076, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736763080, 1
+KLIKNIECIE: 1736763091, 1
+KLIKNIECIE: 1736763100, 0
+Reklama Start: 1736763104, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736763118, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KONIEC RUNDY: 1736763120
+KLIKNIECIE: 1736763132, 0
+Reklama Start: 1736763133, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736763147, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736763150, 1
+KLIKNIECIE: 1736763153, 1
+KLIKNIECIE: 1736763171, 1
+Reklama Start: 1736763176, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736763190, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736763205, 1
+KLIKNIECIE: 1736763206, 0
+KONIEC RUNDY: 1736763210
+KLIKNIECIE: 1736763213, 1
+KLIKNIECIE: 1736763216, 1
+KLIKNIECIE: 1736763219, 1
+KLIKNIECIE: 1736763226, 1
+KLIKNIECIE: 1736763231, 1
+Reklama Start: 1736763237, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736763241, 1
+KLIKNIECIE: 1736763244, 1
+KLIKNIECIE: 1736763246, 1
+KLIKNIECIE: 1736763250, 1
+Reklama Zakoñczona: 1736763250, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+Reklama Start: 1736763285, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736763298, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1736763300
+KLIKNIECIE: 1736763304, 1
+KLIKNIECIE: 1736763307, 1
+KLIKNIECIE: 1736763314, 1
+Reklama Start: 1736763317, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736763317, 1
+KLIKNIECIE: 1736763320, 1
+Reklama Zakoñczona: 1736763331, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736763338, 1
+KLIKNIECIE: 1736763340, 1
+Reklama Start: 1736763358, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736763364, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736763364, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763368, 1
+KLIKNIECIE: 1736763369, 0
+KONIEC RUNDY: 1736763390
+KLIKNIECIE: 1736763393, 1
+KLIKNIECIE: 1736763398, 0
+KLIKNIECIE: 1736763400, 0
+KLIKNIECIE: 1736763400, 0
+KLIKNIECIE: 1736763410, 1
+KLIKNIECIE: 1736763417, 1
+Reklama Start: 1736763420, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736763425, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736763425, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763430, 1
+KLIKNIECIE: 1736763442, 1
+Reklama Start: 1736763462, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736763468, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736763468, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736763480
+Reklama Start: 1736763487, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763493, 1
+Reklama Zakoñczona: 1736763501, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763507, 1
+KLIKNIECIE: 1736763515, 1
+KLIKNIECIE: 1736763523, 1
+KLIKNIECIE: 1736763555, 1
+Reklama Start: 1736763556, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736763564, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736763564, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736763570
+KLIKNIECIE: 1736763572, 1
+KLIKNIECIE: 1736763579, 1
+KLIKNIECIE: 1736763582, 1
+Reklama Start: 1736763583, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763589, 1
+Reklama Zakoñczona: 1736763597, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763598, 1
+KLIKNIECIE: 1736763602, 1
+KLIKNIECIE: 1736763637, 1
+Reklama Start: 1736763641, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736763655, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736763660
+KLIKNIECIE: 1736763664, 1
+Reklama Start: 1736763671, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763671, 1
+Reklama Zakoñczona: 1736763685, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763688, 1
+KLIKNIECIE: 1736763695, 1
+KLIKNIECIE: 1736763698, 1
+KLIKNIECIE: 1736763713, 1
+Reklama Start: 1736763720, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736763721, 1
+Reklama Zakoñczona: 1736763734, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736763755
+CALKOWITY CZAS EKSERYMENTU: 815.2986059188843
+
+==========================================================
+
+user10
+
+CZAS STARTU: 1736763866
+KLIKNIECIE: 1736763871, 1
+Reklama Start: 1736763874, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736763893, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736763895, 1
+KLIKNIECIE: 1736763903, 1
+KLIKNIECIE: 1736763907, 1
+Reklama Start: 1736763931, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736763951, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736763954, 1
+KONIEC RUNDY: 1736763956
+KLIKNIECIE: 1736763958, 1
+Reklama Start: 1736763971, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736763989, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736763998, 1
+KLIKNIECIE: 1736764003, 1
+Reklama Start: 1736764012, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736764014, 1
+KLIKNIECIE: 1736764019, 1
+Reklama Zakoñczona: 1736764025, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736764035, 0
+KLIKNIECIE: 1736764037, 1
+KONIEC RUNDY: 1736764046
+Reklama Start: 1736764058, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736764068, 1
+Reklama Zakoñczona: 1736764071, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736764073, 1
+KLIKNIECIE: 1736764076, 1
+KLIKNIECIE: 1736764085, 1
+KLIKNIECIE: 1736764088, 1
+KLIKNIECIE: 1736764116, 0
+KLIKNIECIE: 1736764121, 1
+Reklama Start: 1736764125, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1736764136
+Reklama Zakoñczona: 1736764138, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736764138, 1
+KLIKNIECIE: 1736764141, 1
+KLIKNIECIE: 1736764144, 1
+KLIKNIECIE: 1736764151, 1
+KLIKNIECIE: 1736764153, 1
+Reklama Start: 1736764154, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736764156, 1
+Reklama Zakoñczona: 1736764167, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736764171, 1
+KLIKNIECIE: 1736764177, 1
+Reklama Start: 1736764193, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736764206, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1736764226
+KLIKNIECIE: 1736764229, 1
+KLIKNIECIE: 1736764230, 1
+KLIKNIECIE: 1736764237, 1
+Reklama Start: 1736764238, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736764242, 1
+Reklama Zakoñczona: 1736764251, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736764257, 1
+KLIKNIECIE: 1736764263, 1
+KLIKNIECIE: 1736764269, 1
+KLIKNIECIE: 1736764276, 1
+KLIKNIECIE: 1736764280, 1
+Reklama Start: 1736764287, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736764293, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736764293, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736764316
+KLIKNIECIE: 1736764319, 1
+KLIKNIECIE: 1736764323, 1
+KLIKNIECIE: 1736764327, 1
+KLIKNIECIE: 1736764329, 1
+KLIKNIECIE: 1736764337, 1
+Reklama Start: 1736764339, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736764344, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736764344, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764351, 1
+KLIKNIECIE: 1736764353, 0
+Reklama Start: 1736764395, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736764401, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736764401, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736764406
+Reklama Start: 1736764427, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764435, 1
+Reklama Zakoñczona: 1736764441, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764442, 1
+KLIKNIECIE: 1736764458, 1
+KLIKNIECIE: 1736764467, 1
+KLIKNIECIE: 1736764471, 1
+KLIKNIECIE: 1736764478, 1
+KLIKNIECIE: 1736764486, 1
+Reklama Start: 1736764486, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736764493, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736764493, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736764496
+KLIKNIECIE: 1736764501, 1
+KLIKNIECIE: 1736764504, 1
+Reklama Start: 1736764506, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764510, 1
+KLIKNIECIE: 1736764514, 1
+Reklama Pominiêta: 1736764519, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736764519, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764523, 1
+KLIKNIECIE: 1736764536, 1
+KLIKNIECIE: 1736764543, 1
+Reklama Start: 1736764571, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764575, 1
+Reklama Pominiêta: 1736764579, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736764579, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736764586
+KLIKNIECIE: 1736764592, 1
+KLIKNIECIE: 1736764597, 1
+KLIKNIECIE: 1736764599, 1
+KLIKNIECIE: 1736764602, 1
+Reklama Start: 1736764609, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764616, 1
+KLIKNIECIE: 1736764622, 1
+Reklama Zakoñczona: 1736764623, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736764626, 1
+KLIKNIECIE: 1736764636, 1
+KLIKNIECIE: 1736764639, 1
+Reklama Start: 1736764665, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736764670, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736764670, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736764681
+CALKOWITY CZAS EKSERYMENTU: 815.2846026420593
+
+==========================================================
+
+user11
+
+CZAS STARTU: 1736764818
+KLIKNIECIE: 1736764828, 1
+KLIKNIECIE: 1736764834, 1
+Reklama Start: 1736764844, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736764864, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736764875, 1
+KLIKNIECIE: 1736764886, 1
+Reklama Start: 1736764898, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1736764908
+Reklama Zakoñczona: 1736764917, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736764924, 1
+Reklama Start: 1736764928, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736764947, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736764950, 1
+KLIKNIECIE: 1736764958, 1
+KLIKNIECIE: 1736764963, 1
+Reklama Start: 1736764976, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736764980, 1
+Reklama Zakoñczona: 1736764990, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736764992, 1
+KONIEC RUNDY: 1736764998
+KLIKNIECIE: 1736765008, 1
+KLIKNIECIE: 1736765011, 0
+Reklama Start: 1736765012, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736765026, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736765038, 1
+KLIKNIECIE: 1736765043, 1
+KLIKNIECIE: 1736765049, 0
+KLIKNIECIE: 1736765052, 0
+Reklama Start: 1736765074, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736765088, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1736765088
+KLIKNIECIE: 1736765096, 1
+Reklama Start: 1736765101, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736765104, 1
+KLIKNIECIE: 1736765110, 1
+Reklama Zakoñczona: 1736765114, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736765123, 1
+KLIKNIECIE: 1736765133, 1
+KLIKNIECIE: 1736765148, 1
+Reklama Start: 1736765168, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1736765173, 1
+KONIEC RUNDY: 1736765178
+Reklama Zakoñczona: 1736765181, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1736765183, 1
+Reklama Start: 1736765190, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736765203, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736765210, 1
+KLIKNIECIE: 1736765215, 1
+KLIKNIECIE: 1736765224, 1
+Reklama Start: 1736765231, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736765236, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736765236, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765249, 1
+KONIEC RUNDY: 1736765268
+KLIKNIECIE: 1736765282, 1
+KLIKNIECIE: 1736765284, 0
+KLIKNIECIE: 1736765295, 1
+Reklama Start: 1736765297, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736765304, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736765304, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765308, 1
+KLIKNIECIE: 1736765314, 1
+KLIKNIECIE: 1736765324, 1
+Reklama Start: 1736765347, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736765354, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736765354, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736765358
+KLIKNIECIE: 1736765373, 1
+KLIKNIECIE: 1736765376, 1
+Reklama Start: 1736765376, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736765384, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736765384, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765399, 1
+KLIKNIECIE: 1736765413, 1
+KLIKNIECIE: 1736765425, 1
+Reklama Start: 1736765426, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736765434, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736765434, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765435, 1
+KLIKNIECIE: 1736765439, 0
+KONIEC RUNDY: 1736765448
+KLIKNIECIE: 1736765461, 1
+Reklama Start: 1736765461, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765466, 1
+Reklama Pominiêta: 1736765468, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736765468, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765477, 1
+KLIKNIECIE: 1736765483, 1
+KLIKNIECIE: 1736765492, 1
+KLIKNIECIE: 1736765500, 1
+Reklama Start: 1736765504, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736765517, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765525, 1
+KONIEC RUNDY: 1736765538
+KLIKNIECIE: 1736765544, 1
+KLIKNIECIE: 1736765552, 1
+KLIKNIECIE: 1736765554, 1
+KLIKNIECIE: 1736765560, 1
+KLIKNIECIE: 1736765567, 1
+Reklama Start: 1736765568, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765581, 1
+Reklama Zakoñczona: 1736765582, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765584, 1
+KLIKNIECIE: 1736765592, 1
+KLIKNIECIE: 1736765599, 1
+Reklama Start: 1736765602, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736765613, 1
+Reklama Zakoñczona: 1736765616, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736765633
+CALKOWITY CZAS EKSERYMENTU: 815.2807772159576
+
+==========================================================
+
+user12
+
+CZAS STARTU: 1736765830
+KLIKNIECIE: 1736765833, 1
+KLIKNIECIE: 1736765834, 1
+KLIKNIECIE: 1736765838, 1
+KLIKNIECIE: 1736765858, 1
+Reklama Start: 1736765858, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736765877, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736765881, 1
+KLIKNIECIE: 1736765884, 1
+KLIKNIECIE: 1736765894, 1
+Reklama Start: 1736765897, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736765916, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736765919, 1
+KONIEC RUNDY: 1736765920
+KLIKNIECIE: 1736765923, 1
+KLIKNIECIE: 1736765926, 1
+KLIKNIECIE: 1736765926, 1
+Reklama Start: 1736765934, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736765953, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736765956, 1
+KLIKNIECIE: 1736765965, 1
+Reklama Start: 1736765973, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736765977, 1
+Reklama Zakoñczona: 1736765987, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736765989, 1
+KLIKNIECIE: 1736765992, 1
+KONIEC RUNDY: 1736766010
+KLIKNIECIE: 1736766030, 1
+Reklama Start: 1736766041, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736766055, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736766059, 0
+KLIKNIECIE: 1736766061, 1
+KLIKNIECIE: 1736766066, 1
+KLIKNIECIE: 1736766069, 1
+KLIKNIECIE: 1736766070, 0
+KLIKNIECIE: 1736766071, 1
+KLIKNIECIE: 1736766081, 1
+Reklama Start: 1736766088, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1736766100
+Reklama Zakoñczona: 1736766102, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Start: 1736766120, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+Reklama Zakoñczona: 1736766134, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736766137, 1
+KLIKNIECIE: 1736766140, 1
+KLIKNIECIE: 1736766143, 1
+KLIKNIECIE: 1736766146, 1
+KLIKNIECIE: 1736766147, 1
+KLIKNIECIE: 1736766149, 1
+KLIKNIECIE: 1736766153, 1
+KLIKNIECIE: 1736766156, 1
+KLIKNIECIE: 1736766162, 1
+Reklama Start: 1736766175, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736766189, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1736766190
+Reklama Start: 1736766211, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736766215, 1
+KLIKNIECIE: 1736766217, 1
+Reklama Zakoñczona: 1736766225, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Start: 1736766247, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736766254, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736766254, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736766272, 1
+KLIKNIECIE: 1736766274, 1
+KONIEC RUNDY: 1736766280
+KLIKNIECIE: 1736766296, 1
+KLIKNIECIE: 1736766298, 1
+Reklama Start: 1736766302, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736766307, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736766307, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736766310, 1
+KLIKNIECIE: 1736766313, 0
+KLIKNIECIE: 1736766318, 1
+KLIKNIECIE: 1736766324, 0
+KLIKNIECIE: 1736766329, 1
+Reklama Start: 1736766355, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736766365, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736766365, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736766370
+Reklama Start: 1736766396, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736766401, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736766401, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736766405, 1
+KLIKNIECIE: 1736766430, 1
+Reklama Start: 1736766443, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736766448, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736766449, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736766460
+KLIKNIECIE: 1736766465, 1
+KLIKNIECIE: 1736766471, 1
+KLIKNIECIE: 1736766473, 1
+KLIKNIECIE: 1736766479, 1
+KLIKNIECIE: 1736766484, 1
+Reklama Start: 1736766487, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736766493, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736766493, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736766506, 0
+KLIKNIECIE: 1736766516, 1
+Reklama Start: 1736766531, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736766537, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736766537, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736766550
+KLIKNIECIE: 1736766560, 1
+KLIKNIECIE: 1736766564, 1
+KLIKNIECIE: 1736766566, 1
+KLIKNIECIE: 1736766568, 1
+Reklama Start: 1736766571, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736766573, 1
+KLIKNIECIE: 1736766577, 1
+KLIKNIECIE: 1736766584, 1
+Reklama Zakoñczona: 1736766585, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736766587, 1
+KLIKNIECIE: 1736766589, 1
+KLIKNIECIE: 1736766602, 1
+Reklama Start: 1736766629, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736766645
+CALKOWITY CZAS EKSERYMENTU: 815.2924661636353
+
+==========================================================
+
+user13
+
+CZAS STARTU: 1736766760
+KLIKNIECIE: 1736766766, 1
+Reklama Start: 1736766768, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736766787, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736766805, 1
+KLIKNIECIE: 1736766808, 1
+KLIKNIECIE: 1736766813, 1
+Reklama Start: 1736766816, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736766836, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736766849, 1
+KONIEC RUNDY: 1736766850
+KLIKNIECIE: 1736766854, 1
+Reklama Start: 1736766866, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736766886, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736766891, 1
+KLIKNIECIE: 1736766897, 1
+KLIKNIECIE: 1736766900, 0
+Reklama Start: 1736766904, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736766906, 1
+Reklama Zakoñczona: 1736766918, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736766931, 1
+KLIKNIECIE: 1736766934, 1
+KLIKNIECIE: 1736766937, 1
+KONIEC RUNDY: 1736766940
+KLIKNIECIE: 1736766943, 0
+KLIKNIECIE: 1736766949, 1
+KLIKNIECIE: 1736766951, 0
+KLIKNIECIE: 1736766953, 1
+Reklama Start: 1736766964, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736766978, Nazwa Reklamy: videos\15s - low2.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736766982, 1
+KLIKNIECIE: 1736766987, 1
+KLIKNIECIE: 1736766993, 1
+Reklama Start: 1736767003, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736767017, Nazwa Reklamy: videos\15s - high5.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736767024, 1
+KONIEC RUNDY: 1736767030
+KLIKNIECIE: 1736767037, 1
+KLIKNIECIE: 1736767040, 1
+KLIKNIECIE: 1736767041, 1
+Reklama Start: 1736767053, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736767062, 1
+KLIKNIECIE: 1736767065, 1
+Reklama Zakoñczona: 1736767067, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736767072, 1
+KLIKNIECIE: 1736767076, 1
+KLIKNIECIE: 1736767079, 1
+KLIKNIECIE: 1736767081, 1
+Reklama Start: 1736767096, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736767110, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1736767120
+KLIKNIECIE: 1736767123, 1
+KLIKNIECIE: 1736767127, 1
+KLIKNIECIE: 1736767135, 1
+Reklama Start: 1736767138, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736767143, 1
+KLIKNIECIE: 1736767150, 1
+KLIKNIECIE: 1736767151, 1
+Reklama Zakoñczona: 1736767152, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736767153, 1
+KLIKNIECIE: 1736767154, 1
+KLIKNIECIE: 1736767156, 1
+Reklama Start: 1736767180, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736767188, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767188, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736767210
+KLIKNIECIE: 1736767212, 0
+KLIKNIECIE: 1736767214, 1
+KLIKNIECIE: 1736767216, 1
+KLIKNIECIE: 1736767218, 1
+KLIKNIECIE: 1736767220, 0
+KLIKNIECIE: 1736767222, 0
+Reklama Start: 1736767233, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767253, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Start: 1736767282, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736767300
+Reklama Zakoñczona: 1736767302, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Start: 1736767317, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736767323, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767323, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736767367, 1
+Reklama Start: 1736767376, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736767383, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767383, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736767390
+Reklama Start: 1736767407, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736767413, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767413, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736767418, 1
+KLIKNIECIE: 1736767420, 1
+KLIKNIECIE: 1736767424, 1
+KLIKNIECIE: 1736767428, 1
+KLIKNIECIE: 1736767430, 1
+KLIKNIECIE: 1736767432, 1
+KLIKNIECIE: 1736767433, 1
+KLIKNIECIE: 1736767435, 1
+Reklama Start: 1736767444, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736767451, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767451, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736767480
+KLIKNIECIE: 1736767483, 1
+KLIKNIECIE: 1736767485, 1
+KLIKNIECIE: 1736767487, 1
+KLIKNIECIE: 1736767498, 1
+KLIKNIECIE: 1736767500, 1
+KLIKNIECIE: 1736767501, 1
+KLIKNIECIE: 1736767503, 1
+KLIKNIECIE: 1736767505, 0
+KLIKNIECIE: 1736767508, 1
+KLIKNIECIE: 1736767510, 1
+Reklama Start: 1736767515, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736767523, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767523, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Start: 1736767536, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736767542, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736767542, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736767575
+CALKOWITY CZAS EKSERYMENTU: 815.29199051857
+
+==========================================================
+
+user14
+
+CZAS STARTU: 1736771930
+KLIKNIECIE: 1736771932, 1
+KLIKNIECIE: 1736771934, 1
+KLIKNIECIE: 1736771942, 1
+KLIKNIECIE: 1736771950, 1
+KLIKNIECIE: 1736771954, 1
+Reklama Start: 1736771955, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736771975, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736771993, 1
+KLIKNIECIE: 1736772000, 1
+Reklama Start: 1736772009, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1736772020
+KLIKNIECIE: 1736772023, 1
+KLIKNIECIE: 1736772025, 1
+Reklama Zakoñczona: 1736772029, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+Reklama Start: 1736772032, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736772052, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736772054, 1
+KLIKNIECIE: 1736772057, 1
+KLIKNIECIE: 1736772063, 1
+Reklama Start: 1736772083, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736772097, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KONIEC RUNDY: 1736772110
+KLIKNIECIE: 1736772112, 1
+KLIKNIECIE: 1736772113, 1
+KLIKNIECIE: 1736772115, 1
+KLIKNIECIE: 1736772118, 0
+KLIKNIECIE: 1736772127, 1
+KLIKNIECIE: 1736772134, 1
+Reklama Start: 1736772141, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736772155, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736772158, 0
+KLIKNIECIE: 1736772161, 1
+Reklama Start: 1736772175, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736772176, 1
+Reklama Zakoñczona: 1736772189, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KONIEC RUNDY: 1736772200
+KLIKNIECIE: 1736772203, 1
+Reklama Start: 1736772205, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736772206, 1
+KLIKNIECIE: 1736772208, 1
+KLIKNIECIE: 1736772214, 1
+KLIKNIECIE: 1736772217, 1
+Reklama Zakoñczona: 1736772219, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736772220, 1
+KLIKNIECIE: 1736772222, 1
+KLIKNIECIE: 1736772224, 1
+KLIKNIECIE: 1736772230, 1
+Reklama Start: 1736772256, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736772270, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1736772290
+KLIKNIECIE: 1736772293, 1
+KLIKNIECIE: 1736772294, 1
+KLIKNIECIE: 1736772304, 1
+KLIKNIECIE: 1736772306, 1
+KLIKNIECIE: 1736772308, 1
+Reklama Start: 1736772308, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736772312, 1
+Reklama Zakoñczona: 1736772322, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736772324, 1
+KLIKNIECIE: 1736772342, 1
+Reklama Start: 1736772357, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736772363, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736772363, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736772380
+KLIKNIECIE: 1736772383, 1
+KLIKNIECIE: 1736772386, 1
+KLIKNIECIE: 1736772394, 1
+KLIKNIECIE: 1736772396, 1
+KLIKNIECIE: 1736772398, 1
+KLIKNIECIE: 1736772401, 1
+KLIKNIECIE: 1736772403, 0
+Reklama Start: 1736772409, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736772429, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Start: 1736772453, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736772470
+Reklama Zakoñczona: 1736772473, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736772476, 1
+Reklama Start: 1736772478, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736772484, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736772484, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736772498, 1
+KLIKNIECIE: 1736772501, 1
+KLIKNIECIE: 1736772503, 1
+KLIKNIECIE: 1736772514, 1
+KLIKNIECIE: 1736772522, 1
+Reklama Start: 1736772542, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736772547, 1
+Reklama Pominiêta: 1736772548, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736772548, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736772560
+KLIKNIECIE: 1736772565, 1
+KLIKNIECIE: 1736772567, 1
+KLIKNIECIE: 1736772572, 1
+KLIKNIECIE: 1736772575, 1
+KLIKNIECIE: 1736772580, 1
+KLIKNIECIE: 1736772581, 1
+Reklama Start: 1736772582, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736772583, 1
+KLIKNIECIE: 1736772587, 1
+Reklama Pominiêta: 1736772588, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736772588, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Start: 1736772621, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736772635, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736772650
+KLIKNIECIE: 1736772655, 1
+KLIKNIECIE: 1736772658, 1
+KLIKNIECIE: 1736772661, 1
+KLIKNIECIE: 1736772664, 1
+KLIKNIECIE: 1736772668, 1
+Reklama Start: 1736772675, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736772678, 1
+KLIKNIECIE: 1736772680, 1
+KLIKNIECIE: 1736772683, 0
+Reklama Zakoñczona: 1736772689, Nazwa Reklamy: videos\15s - high2.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736772697, 1
+KLIKNIECIE: 1736772702, 1
+KLIKNIECIE: 1736772707, 1
+Reklama Start: 1736772717, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736772731, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736772745
+CALKOWITY CZAS EKSERYMENTU: 815.3056437969208
+
+==========================================================
+
+user15
+
+CZAS STARTU: 1736772823
+KLIKNIECIE: 1736772827, 1
+KLIKNIECIE: 1736772829, 1
+KLIKNIECIE: 1736772832, 1
+KLIKNIECIE: 1736772835, 1
+KLIKNIECIE: 1736772837, 1
+KLIKNIECIE: 1736772840, 1
+Reklama Start: 1736772845, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736772865, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736772873, 1
+KLIKNIECIE: 1736772874, 1
+KLIKNIECIE: 1736772889, 1
+Reklama Start: 1736772893, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1736772913
+Reklama Zakoñczona: 1736772913, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736772918, 1
+KLIKNIECIE: 1736772920, 1
+KLIKNIECIE: 1736772923, 1
+KLIKNIECIE: 1736772925, 1
+KLIKNIECIE: 1736772939, 1
+KLIKNIECIE: 1736772944, 1
+Reklama Start: 1736772944, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736772965, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Start: 1736772979, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736772994, Nazwa Reklamy: videos\15s - high4.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736773001, 1
+KONIEC RUNDY: 1736773003
+KLIKNIECIE: 1736773011, 0
+KLIKNIECIE: 1736773015, 1
+KLIKNIECIE: 1736773019, 0
+KLIKNIECIE: 1736773021, 1
+Reklama Start: 1736773023, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736773025, 1
+Reklama Zakoñczona: 1736773038, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736773047, 1
+KLIKNIECIE: 1736773052, 1
+Reklama Start: 1736773059, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736773073, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736773082, 1
+KONIEC RUNDY: 1736773093
+KLIKNIECIE: 1736773096, 1
+KLIKNIECIE: 1736773100, 1
+KLIKNIECIE: 1736773102, 1
+Reklama Start: 1736773106, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736773109, 1
+KLIKNIECIE: 1736773111, 1
+KLIKNIECIE: 1736773117, 1
+Reklama Zakoñczona: 1736773120, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736773125, 1
+KLIKNIECIE: 1736773131, 1
+KLIKNIECIE: 1736773135, 1
+Reklama Start: 1736773151, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+Reklama Zakoñczona: 1736773165, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KONIEC RUNDY: 1736773183
+KLIKNIECIE: 1736773186, 1
+KLIKNIECIE: 1736773188, 1
+KLIKNIECIE: 1736773200, 1
+Reklama Start: 1736773201, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736773203, 1
+KLIKNIECIE: 1736773211, 1
+Reklama Zakoñczona: 1736773214, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736773215, 1
+KLIKNIECIE: 1736773222, 1
+KLIKNIECIE: 1736773226, 1
+Reklama Start: 1736773234, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736773240, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773240, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736773273
+KLIKNIECIE: 1736773276, 1
+KLIKNIECIE: 1736773278, 1
+KLIKNIECIE: 1736773280, 0
+KLIKNIECIE: 1736773284, 1
+KLIKNIECIE: 1736773286, 1
+KLIKNIECIE: 1736773290, 1
+Reklama Start: 1736773306, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736773313, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773313, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Start: 1736773344, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736773352, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773352, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736773364
+KLIKNIECIE: 1736773380, 1
+Reklama Start: 1736773381, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736773387, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773387, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736773390, 1
+KLIKNIECIE: 1736773402, 1
+KLIKNIECIE: 1736773408, 1
+KLIKNIECIE: 1736773412, 1
+KLIKNIECIE: 1736773417, 1
+KLIKNIECIE: 1736773420, 1
+Reklama Start: 1736773444, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736773449, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773449, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736773454
+KLIKNIECIE: 1736773460, 1
+KLIKNIECIE: 1736773467, 1
+Reklama Start: 1736773468, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736773471, 1
+KLIKNIECIE: 1736773478, 1
+Reklama Pominiêta: 1736773481, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773481, Nazwa Reklamy: videos\15s - low1.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736773484, 1
+KLIKNIECIE: 1736773491, 1
+KLIKNIECIE: 1736773496, 1
+Reklama Start: 1736773508, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773521, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736773544
+KLIKNIECIE: 1736773547, 1
+KLIKNIECIE: 1736773550, 1
+Reklama Start: 1736773554, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736773554, 1
+KLIKNIECIE: 1736773560, 1
+Reklama Zakoñczona: 1736773567, Nazwa Reklamy: videos\15s - high6.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736773568, 1
+KLIKNIECIE: 1736773570, 1
+KLIKNIECIE: 1736773573, 1
+KLIKNIECIE: 1736773577, 1
+KLIKNIECIE: 1736773582, 1
+Reklama Start: 1736773608, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736773621, Nazwa Reklamy: videos\15s - mid6.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+CZAS ZAKONCZENIA: 1736773639
+CALKOWITY CZAS EKSERYMENTU: 815.2906148433685
+
+==========================================================
+
+user16
+
+CZAS STARTU: 1736773758
+KLIKNIECIE: 1736773767, 1
+KLIKNIECIE: 1736773771, 1
+KLIKNIECIE: 1736773776, 1
+Reklama Start: 1736773779, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+Reklama Zakoñczona: 1736773800, Nazwa Reklamy: videos\15s - low5.mp4, Scenariusz: 1. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736773802, 1
+KLIKNIECIE: 1736773819, 1
+Reklama Start: 1736773828, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KONIEC RUNDY: 1736773848
+Reklama Zakoñczona: 1736773849, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 2. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736773856, 1
+KLIKNIECIE: 1736773859, 1
+KLIKNIECIE: 1736773864, 1
+KLIKNIECIE: 1736773872, 1
+Reklama Start: 1736773874, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736773895, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 3. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Start: 1736773901, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736773910, 1
+Reklama Zakoñczona: 1736773915, Nazwa Reklamy: videos\15s - mid3.mp4, Scenariusz: 4. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi
+KLIKNIECIE: 1736773927, 1
+KONIEC RUNDY: 1736773938
+KLIKNIECIE: 1736773952, 0
+KLIKNIECIE: 1736773956, 1
+KLIKNIECIE: 1736773961, 1
+Reklama Start: 1736773968, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+Reklama Zakoñczona: 1736773983, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 5. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹
+KLIKNIECIE: 1736773987, 1
+Reklama Start: 1736773995, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736774009, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 6. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736774017, 1
+KLIKNIECIE: 1736774020, 1
+KONIEC RUNDY: 1736774028
+KLIKNIECIE: 1736774044, 1
+Reklama Start: 1736774044, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736774049, 1
+Reklama Zakoñczona: 1736774058, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 7. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi
+KLIKNIECIE: 1736774059, 1
+KLIKNIECIE: 1736774063, 1
+KLIKNIECIE: 1736774078, 1
+Reklama Start: 1736774087, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1736774088, 1
+Reklama Zakoñczona: 1736774101, Nazwa Reklamy: videos\15s - low3.mp4, Scenariusz: 8. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹
+KLIKNIECIE: 1736774104, 1
+KLIKNIECIE: 1736774112, 1
+KONIEC RUNDY: 1736774118
+KLIKNIECIE: 1736774127, 1
+KLIKNIECIE: 1736774129, 1
+Reklama Start: 1736774134, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+Reklama Zakoñczona: 1736774148, Nazwa Reklamy: videos\15s - mid1.mp4, Scenariusz: 9. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund)
+KLIKNIECIE: 1736774152, 1
+KLIKNIECIE: 1736774157, 1
+KLIKNIECIE: 1736774167, 1
+KLIKNIECIE: 1736774179, 1
+Reklama Start: 1736774179, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736774186, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736774186, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 10. Wyœwietlanie reklamy w ca³ym obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774191, 1
+KLIKNIECIE: 1736774197, 1
+KLIKNIECIE: 1736774206, 1
+KONIEC RUNDY: 1736774208
+KLIKNIECIE: 1736774217, 1
+KLIKNIECIE: 1736774224, 0
+KLIKNIECIE: 1736774235, 1
+Reklama Start: 1736774235, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736774241, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736774241, Nazwa Reklamy: videos\15s - mid2.mp4, Scenariusz: 11. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774243, 0
+KLIKNIECIE: 1736774250, 1
+KLIKNIECIE: 1736774253, 1
+KLIKNIECIE: 1736774264, 1
+KLIKNIECIE: 1736774275, 1
+Reklama Start: 1736774285, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736774293, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736774293, Nazwa Reklamy: videos\15s - high1.mp4, Scenariusz: 12. Wyœwietlanie reklamy w ca³ym obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KONIEC RUNDY: 1736774298
+KLIKNIECIE: 1736774321, 1
+Reklama Start: 1736774321, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774325, 1
+Reklama Pominiêta: 1736774330, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736774330, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 13. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774333, 1
+KLIKNIECIE: 1736774354, 1
+KLIKNIECIE: 1736774363, 1
+Reklama Start: 1736774373, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736774379, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736774379, Nazwa Reklamy: videos\15s - low4.mp4, Scenariusz: 14. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774381, 1
+KONIEC RUNDY: 1736774388
+KLIKNIECIE: 1736774396, 1
+KLIKNIECIE: 1736774403, 1
+KLIKNIECIE: 1736774408, 1
+KLIKNIECIE: 1736774421, 1
+Reklama Start: 1736774424, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Pominiêta: 1736774429, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736774429, Nazwa Reklamy: videos\15s - low6.mp4, Scenariusz: 15. Wyœwietlanie reklamy w postaci okna pop-up w obszarze gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774434, 1
+KLIKNIECIE: 1736774442, 1
+Reklama Start: 1736774444, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774448, 1
+Reklama Pominiêta: 1736774455, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+Reklama Zakoñczona: 1736774455, Nazwa Reklamy: videos\15s - high3.mp4, Scenariusz: 16. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry bez zapowiedzi oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774473, 1
+KONIEC RUNDY: 1736774479
+KLIKNIECIE: 1736774491, 1
+KLIKNIECIE: 1736774496, 1
+Reklama Start: 1736774503, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774505, 1
+KLIKNIECIE: 1736774511, 1
+Reklama Zakoñczona: 1736774516, Nazwa Reklamy: videos\15s - mid5.mp4, Scenariusz: 17. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774517, 1
+KLIKNIECIE: 1736774528, 1
+KLIKNIECIE: 1736774533, 0
+KLIKNIECIE: 1736774535, 1
+Reklama Start: 1736774536, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774537, 0
+KLIKNIECIE: 1736774539, 0
+KLIKNIECIE: 1736774542, 0
+KLIKNIECIE: 1736774547, 1
+Reklama Zakoñczona: 1736774549, Nazwa Reklamy: videos\15s - mid4.mp4, Scenariusz: 18. Wyœwietlanie reklamy w postaci okna pop-up obok obszaru gry z zapowiedzi¹ czasow¹ (np. 5 sekund) oraz mo¿liwoœci¹ pominiêcia w ci¹gu 5 sekund
+KLIKNIECIE: 1736774550, 0
+KLIKNIECIE: 1736774551, 0
+KLIKNIECIE: 1736774561, 1
+CZAS ZAKONCZENIA: 1736774574
+CALKOWITY CZAS EKSERYMENTU: 815.2916383743286
+
+==========================================================
+
